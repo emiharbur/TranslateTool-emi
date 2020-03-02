@@ -1,0 +1,1134 @@
+[2019-09-02 09:30:41] -> 提取到 3 个文档
+[2019-09-02 09:30:41] -> 开始翻译Article1.txt
+[2019-09-02 09:31:58] -> Article1.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article1.txt
+[2019-09-02 09:31:58] -> 开始翻译Article2.txt
+[2019-09-02 09:31:59] -> Article2.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article2.txt
+[2019-09-02 09:31:59] -> 开始翻译Article3.txt
+[2019-09-02 09:32:00] -> Article3.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article3.txt
+[2019-09-02 09:32:00] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-09-02 09:32:06] -> 提取到 3 个文档
+[2019-09-02 09:32:06] -> 开始翻译Article1.txt
+[2019-09-02 09:33:02] -> Article1.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article11.txt
+[2019-09-02 09:33:02] -> 开始翻译Article2.txt
+[2019-09-02 09:35:52] -> 提取到 3 个文档
+[2019-09-02 09:35:52] -> 开始翻译Article1.txt
+[2019-09-02 09:36:01] -> Article1.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article1.txt
+[2019-09-02 09:36:01] -> 开始翻译Article2.txt
+[2019-09-02 09:36:06] -> Article2.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article2.txt
+[2019-09-02 09:36:06] -> 开始翻译Article3.txt
+[2019-09-02 09:36:11] -> Article3.txt翻译完成，新文档：F:\Git\TranslateTool\src\TranslateTool\TranslateTool\Doc_Out\Article3.txt
+[2019-09-02 09:36:11] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-25 17:46:02] -> 提取到 6 个文档
+[2019-11-25 17:46:02] -> 开始翻译【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx
+[2019-11-25 17:46:20] -> 【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx
+[2019-11-25 17:46:20] -> 开始翻译【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx
+[2019-11-25 17:46:37] -> 【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx
+[2019-11-25 17:46:37] -> 开始翻译【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx
+[2019-11-25 17:46:52] -> 【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx
+[2019-11-25 17:46:52] -> 开始翻译【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx
+[2019-11-25 17:47:08] -> 【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx
+[2019-11-25 17:47:08] -> 开始翻译【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx
+[2019-11-25 17:47:19] -> 【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx
+[2019-11-25 17:47:19] -> 开始翻译【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx
+[2019-11-25 17:47:27] -> 【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx
+[2019-11-25 17:47:27] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-25 17:54:18] -> 提取到 1 个文档
+[2019-11-25 17:54:18] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 17:54:24] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 17:54:24] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-25 18:00:54] -> 提取到 1 个文档
+[2019-11-25 18:00:54] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:00:58] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:00:58] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-25 18:02:02] -> 提取到 1 个文档
+[2019-11-25 18:02:02] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:02:03] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:02:03] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-25 18:09:23] -> 提取到 1 个文档
+[2019-11-25 18:09:23] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:09:24] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en1.docx
+[2019-11-25 18:09:24] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-25 18:10:29] -> 提取到 1 个文档
+[2019-11-25 18:10:29] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:10:30] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师_en.docx
+[2019-11-25 18:10:30] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-11-27 08:58:58] -> 提取到 7 个文档
+[2019-11-27 08:58:58] -> 开始翻译【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx
+[2019-11-27 08:59:27] -> 【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx
+[2019-11-27 08:59:27] -> 开始翻译【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx
+[2019-11-27 08:59:54] -> 【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx
+[2019-11-27 08:59:54] -> 开始翻译【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx
+[2019-11-27 09:00:16] -> 【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx
+[2019-11-27 09:00:16] -> 开始翻译【合作伙伴】曹操出行首单绿色ABS成功发行.docx
+[2019-11-27 09:00:27] -> 【合作伙伴】曹操出行首单绿色ABS成功发行.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】曹操出行首单绿色ABS成功发行.docx
+[2019-11-27 09:00:27] -> 开始翻译【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx
+[2019-11-27 09:00:51] -> 【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx
+[2019-11-27 09:00:51] -> 开始翻译【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx
+[2019-11-27 09:01:06] -> 【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx
+[2019-11-27 09:01:06] -> 开始翻译【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx
+[2019-11-27 09:01:17] -> 【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx
+[2019-11-27 09:01:17] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-16 09:23:42] -> 提取到 103 个文档
+[2019-12-16 09:23:42] -> 开始翻译【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx
+[2019-12-16 09:24:09] -> 【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】 意锐与日本餐饮巨头ZENSHO合作 超3000家门店支持“扣扫”支付.docx
+[2019-12-16 09:24:09] -> 开始翻译【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx
+[2019-12-16 09:24:32] -> 【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】5G喜临门！全国家具行业首例5G工业互联网实践落户绍兴.docx
+[2019-12-16 09:24:32] -> 开始翻译【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx
+[2019-12-16 09:25:14] -> 【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】“小法”亮相数字中国，携手江西高院迈向美好未来！.docx
+[2019-12-16 09:25:14] -> 开始翻译【合作伙伴】上海5G创新峰会：虹软助力5G、AI深度融合.docx
+[2019-12-16 09:25:32] -> 【合作伙伴】上海5G创新峰会：虹软助力5G、AI深度融合.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】上海5G创新峰会：虹软助力5G、AI深度融合.docx
+[2019-12-16 09:25:32] -> 开始翻译【合作伙伴】世界500强物产中大公布2018年年报 主要指标创新高.docx
+[2019-12-16 09:25:56] -> 【合作伙伴】世界500强物产中大公布2018年年报 主要指标创新高.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】世界500强物产中大公布2018年年报 主要指标创新高.docx
+[2019-12-16 09:25:56] -> 开始翻译【合作伙伴】中国智能科学技术最高奖揭晓 小i机器人荣获第九届吴文俊人工智能科技进步奖.docx
+[2019-12-16 09:26:11] -> 【合作伙伴】中国智能科学技术最高奖揭晓 小i机器人荣获第九届吴文俊人工智能科技进步奖.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中国智能科学技术最高奖揭晓 小i机器人荣获第九届吴文俊人工智能科技进步奖.docx
+[2019-12-16 09:26:11] -> 开始翻译【合作伙伴】中国（阳信）炭素新材料国际高峰论坛暨京阳科技五周年庆典在滨州隆重召开.docx
+[2019-12-16 09:26:29] -> 【合作伙伴】中国（阳信）炭素新材料国际高峰论坛暨京阳科技五周年庆典在滨州隆重召开.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中国（阳信）炭素新材料国际高峰论坛暨京阳科技五周年庆典在滨州隆重召开.docx
+[2019-12-16 09:26:29] -> 开始翻译【合作伙伴】中奥科技数据中台，引领警务数据服务化新模式.docx
+[2019-12-16 09:26:43] -> 【合作伙伴】中奥科技数据中台，引领警务数据服务化新模式.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中奥科技数据中台，引领警务数据服务化新模式.docx
+[2019-12-16 09:26:43] -> 开始翻译【合作伙伴】云中鹤荣膺“中国智慧零售模式创新奖”.docx
+[2019-12-16 09:27:02] -> 【合作伙伴】云中鹤荣膺“中国智慧零售模式创新奖”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云中鹤荣膺“中国智慧零售模式创新奖”.docx
+[2019-12-16 09:27:02] -> 开始翻译【合作伙伴】云创大数据张真董事长入选第四批国家“万人计划”科技创业领军人才.docx
+[2019-12-16 09:27:19] -> 【合作伙伴】云创大数据张真董事长入选第四批国家“万人计划”科技创业领军人才.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据张真董事长入选第四批国家“万人计划”科技创业领军人才.docx
+[2019-12-16 09:27:19] -> 开始翻译【合作伙伴】云创大数据获批“工业和信息化人才培养工程培训基地”！.docx
+[2019-12-16 09:27:31] -> 【合作伙伴】云创大数据获批“工业和信息化人才培养工程培训基地”！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据获批“工业和信息化人才培养工程培训基地”！.docx
+[2019-12-16 09:27:31] -> 开始翻译【合作伙伴】云创大数据获评“江苏省软件企业技术中心”.docx
+[2019-12-16 09:27:43] -> 【合作伙伴】云创大数据获评“江苏省软件企业技术中心”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据获评“江苏省软件企业技术中心”.docx
+[2019-12-16 09:27:43] -> 开始翻译【合作伙伴】云创大数据通过ISO IEC 27001信息安全管理体系认证 .docx
+[2019-12-16 09:27:53] -> 【合作伙伴】云创大数据通过ISO IEC 27001信息安全管理体系认证 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据通过ISO IEC 27001信息安全管理体系认证 .docx
+[2019-12-16 09:27:54] -> 开始翻译【合作伙伴】云创大数据顺利通过CMMI3认证，研发管理能力获国际认可.docx
+[2019-12-16 09:28:22] -> 【合作伙伴】云创大数据顺利通过CMMI3认证，研发管理能力获国际认可.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据顺利通过CMMI3认证，研发管理能力获国际认可.docx
+[2019-12-16 09:28:22] -> 开始翻译【合作伙伴】京阳科技研发项目顺利通过科技成果鉴定.docx
+[2019-12-16 09:28:30] -> 【合作伙伴】京阳科技研发项目顺利通过科技成果鉴定.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】京阳科技研发项目顺利通过科技成果鉴定.docx
+[2019-12-16 09:28:30] -> 开始翻译【合作伙伴】价值千万的数据中台长什么样？.docx
+[2019-12-16 09:30:56] -> 【合作伙伴】价值千万的数据中台长什么样？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】价值千万的数据中台长什么样？.docx
+[2019-12-16 09:30:56] -> 开始翻译【合作伙伴】传化智联慧通携手远传技术，打造物流智能客服机器人.docx
+[2019-12-16 09:31:11] -> 【合作伙伴】传化智联慧通携手远传技术，打造物流智能客服机器人.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】传化智联慧通携手远传技术，打造物流智能客服机器人.docx
+[2019-12-16 09:31:11] -> 开始翻译【合作伙伴】光大绿色环保与中国邮政储蓄银行深圳分行签署战略合作协议.docx
+[2019-12-16 09:31:22] -> 【合作伙伴】光大绿色环保与中国邮政储蓄银行深圳分行签署战略合作协议.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保与中国邮政储蓄银行深圳分行签署战略合作协议.docx
+[2019-12-16 09:31:22] -> 开始翻译【合作伙伴】光大绿色环保公布2018年全年业绩.docx
+[2019-12-16 09:31:51] -> 【合作伙伴】光大绿色环保公布2018年全年业绩.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保公布2018年全年业绩.docx
+[2019-12-16 09:31:51] -> 开始翻译【合作伙伴】光大绿色环保公布2019年中期业绩.docx
+[2019-12-16 09:32:12] -> 【合作伙伴】光大绿色环保公布2019年中期业绩.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保公布2019年中期业绩.docx
+[2019-12-16 09:32:12] -> 开始翻译【合作伙伴】光大绿色环保取得江苏省张家港危废焚烧项目.docx
+[2019-12-16 09:32:18] -> 【合作伙伴】光大绿色环保取得江苏省张家港危废焚烧项目.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保取得江苏省张家港危废焚烧项目.docx
+[2019-12-16 09:32:18] -> 开始翻译【合作伙伴】光大绿色环保成功中标深圳宝安高尔夫球会场地环境质量提升项目.docx
+[2019-12-16 09:32:23] -> 【合作伙伴】光大绿色环保成功中标深圳宝安高尔夫球会场地环境质量提升项目.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保成功中标深圳宝安高尔夫球会场地环境质量提升项目.docx
+[2019-12-16 09:32:23] -> 开始翻译【合作伙伴】光大绿色环保签署安徽叶集生物质热电联供项目二期和江苏宿迁一般工业固废热电联供项目.docx
+[2019-12-16 09:32:30] -> 【合作伙伴】光大绿色环保签署安徽叶集生物质热电联供项目二期和江苏宿迁一般工业固废热电联供项目.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保签署安徽叶集生物质热电联供项目二期和江苏宿迁一般工业固废热电联供项目.docx
+[2019-12-16 09:32:30] -> 开始翻译【合作伙伴】光大绿色环保签署山东枣庄危废综合处置项目.docx
+[2019-12-16 09:32:36] -> 【合作伙伴】光大绿色环保签署山东枣庄危废综合处置项目.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保签署山东枣庄危废综合处置项目.docx
+[2019-12-16 09:32:36] -> 开始翻译【合作伙伴】光大绿色环保签署江苏省海门固废综合处置项目.docx
+[2019-12-16 09:32:43] -> 【合作伙伴】光大绿色环保签署江苏省海门固废综合处置项目.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保签署江苏省海门固废综合处置项目.docx
+[2019-12-16 09:32:43] -> 开始翻译【合作伙伴】全国首家！立方门禁通过上海公安三所新国标认证.docx
+[2019-12-16 09:33:01] -> 【合作伙伴】全国首家！立方门禁通过上海公安三所新国标认证.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】全国首家！立方门禁通过上海公安三所新国标认证.docx
+[2019-12-16 09:33:01] -> 开始翻译【合作伙伴】创新驱动未来，立方控股荣获“2019中国智慧停车示范平台”.docx
+[2019-12-16 09:33:11] -> 【合作伙伴】创新驱动未来，立方控股荣获“2019中国智慧停车示范平台”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】创新驱动未来，立方控股荣获“2019中国智慧停车示范平台”.docx
+[2019-12-16 09:33:11] -> 开始翻译【合作伙伴】基于Intel Xeon 处理器技术的赛特斯高性能FlexBNG实现和应用.docx
+[2019-12-16 09:33:30] -> 【合作伙伴】基于Intel Xeon 处理器技术的赛特斯高性能FlexBNG实现和应用.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】基于Intel Xeon 处理器技术的赛特斯高性能FlexBNG实现和应用.docx
+[2019-12-16 09:33:30] -> 开始翻译【合作伙伴】天堂硅谷投资的浙江永宁药业中药材研发基地成立.docx
+[2019-12-16 09:33:38] -> 【合作伙伴】天堂硅谷投资的浙江永宁药业中药材研发基地成立.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】天堂硅谷投资的浙江永宁药业中药材研发基地成立.docx
+[2019-12-16 09:33:38] -> 开始翻译【合作伙伴】天广实牵手诺诚健华攻坚细胞淋巴瘤.docx
+[2019-12-16 09:33:45] -> 【合作伙伴】天广实牵手诺诚健华攻坚细胞淋巴瘤.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】天广实牵手诺诚健华攻坚细胞淋巴瘤.docx
+[2019-12-16 09:33:45] -> 开始翻译【合作伙伴】宏路数据大数据技术，助力政府实现精准企业服务.docx
+[2019-12-16 09:34:02] -> 【合作伙伴】宏路数据大数据技术，助力政府实现精准企业服务.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】宏路数据大数据技术，助力政府实现精准企业服务.docx
+[2019-12-16 09:34:02] -> 开始翻译【合作伙伴】小i机器人SQuAD1.1榜单斩获全球第三 机器阅读理解能力再上新高度.docx
+[2019-12-16 09:34:17] -> 【合作伙伴】小i机器人SQuAD1.1榜单斩获全球第三 机器阅读理解能力再上新高度.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】小i机器人SQuAD1.1榜单斩获全球第三 机器阅读理解能力再上新高度.docx
+[2019-12-16 09:34:17] -> 开始翻译【合作伙伴】小i机器人“下一代AI联络中心“服务模式落地.docx
+[2019-12-16 09:34:32] -> 【合作伙伴】小i机器人“下一代AI联络中心“服务模式落地.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】小i机器人“下一代AI联络中心“服务模式落地.docx
+[2019-12-16 09:34:32] -> 开始翻译【合作伙伴】小i机器人携手中国移动 打造“硬核”企业大脑.docx
+[2019-12-16 09:34:45] -> 【合作伙伴】小i机器人携手中国移动 打造“硬核”企业大脑.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】小i机器人携手中国移动 打造“硬核”企业大脑.docx
+[2019-12-16 09:34:45] -> 开始翻译【合作伙伴】小i机器人荣登2019上海民营服务业企业百强榜.docx
+[2019-12-16 09:34:55] -> 【合作伙伴】小i机器人荣登2019上海民营服务业企业百强榜.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】小i机器人荣登2019上海民营服务业企业百强榜.docx
+[2019-12-16 09:34:55] -> 开始翻译【合作伙伴】尼尔森助力销售管理数字化进入全新2.0时代.docx
+[2019-12-16 09:35:11] -> 【合作伙伴】尼尔森助力销售管理数字化进入全新2.0时代.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】尼尔森助力销售管理数字化进入全新2.0时代.docx
+[2019-12-16 09:35:11] -> 开始翻译【合作伙伴】峰火众智拟作价11.2亿 注入上市公司长江通信.docx
+[2019-12-16 09:35:22] -> 【合作伙伴】峰火众智拟作价11.2亿 注入上市公司长江通信.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】峰火众智拟作价11.2亿 注入上市公司长江通信.docx
+[2019-12-16 09:35:22] -> 开始翻译【合作伙伴】带你领略北京大兴国际机场中使用的金属复合装饰材料.docx
+[2019-12-16 09:35:44] -> 【合作伙伴】带你领略北京大兴国际机场中使用的金属复合装饰材料.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】带你领略北京大兴国际机场中使用的金属复合装饰材料.docx
+[2019-12-16 09:35:44] -> 开始翻译【合作伙伴】开启新征程，擎盾数据上海子公司成立！.docx
+[2019-12-16 09:35:55] -> 【合作伙伴】开启新征程，擎盾数据上海子公司成立！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】开启新征程，擎盾数据上海子公司成立！.docx
+[2019-12-16 09:35:55] -> 开始翻译【合作伙伴】当虹科技荣登2019浙江省最具潜力科创企业榜单.docx
+[2019-12-16 09:36:01] -> 【合作伙伴】当虹科技荣登2019浙江省最具潜力科创企业榜单.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】当虹科技荣登2019浙江省最具潜力科创企业榜单.docx
+[2019-12-16 09:36:01] -> 开始翻译【合作伙伴】微盟2019服务商大会：未来5年微盟的战略规划都在这里了！.docx
+[2019-12-16 09:36:53] -> 【合作伙伴】微盟2019服务商大会：未来5年微盟的战略规划都在这里了！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟2019服务商大会：未来5年微盟的战略规划都在这里了！.docx
+[2019-12-16 09:36:53] -> 开始翻译【合作伙伴】微盟再获腾讯增持，加速布局产业互联网.docx
+[2019-12-16 09:37:03] -> 【合作伙伴】微盟再获腾讯增持，加速布局产业互联网.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟再获腾讯增持，加速布局产业互联网.docx
+[2019-12-16 09:37:03] -> 开始翻译【合作伙伴】微盟智慧零售重磅推出区域管理功能，助力门店提升管理效率.docx
+[2019-12-16 09:37:28] -> 【合作伙伴】微盟智慧零售重磅推出区域管理功能，助力门店提升管理效率.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟智慧零售重磅推出区域管理功能，助力门店提升管理效率.docx
+[2019-12-16 09:37:28] -> 开始翻译【合作伙伴】微盟集团(02013)入选恒生综合指数.docx
+[2019-12-16 09:37:35] -> 【合作伙伴】微盟集团(02013)入选恒生综合指数.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟集团(02013)入选恒生综合指数.docx
+[2019-12-16 09:37:35] -> 开始翻译【合作伙伴】微盟集团(02013.HK)完成2.55亿股配售筹资12亿港元 腾讯、GIC、贝莱德继续增持.docx
+[2019-12-16 09:37:47] -> 【合作伙伴】微盟集团(02013.HK)完成2.55亿股配售筹资12亿港元 腾讯、GIC、贝莱德继续增持.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟集团(02013.HK)完成2.55亿股配售筹资12亿港元 腾讯、GIC、贝莱德继续增持.docx
+[2019-12-16 09:37:47] -> 开始翻译【合作伙伴】微盟集团与汇付天下战略合作 携手赋能智慧商业数字化升级.docx
+[2019-12-16 09:38:07] -> 【合作伙伴】微盟集团与汇付天下战略合作 携手赋能智慧商业数字化升级.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟集团与汇付天下战略合作 携手赋能智慧商业数字化升级.docx
+[2019-12-16 09:38:07] -> 开始翻译【合作伙伴】微盟集团配资11.57亿港元，提前谋局“SaaS+营销”产业生态协同.docx
+[2019-12-16 09:38:34] -> 【合作伙伴】微盟集团配资11.57亿港元，提前谋局“SaaS+营销”产业生态协同.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟集团配资11.57亿港元，提前谋局“SaaS+营销”产业生态协同.docx
+[2019-12-16 09:38:34] -> 开始翻译【合作伙伴】微盟集团：上半年SaaS增长强劲 精准营销逆势大增.docx
+[2019-12-16 09:39:01] -> 【合作伙伴】微盟集团：上半年SaaS增长强劲 精准营销逆势大增.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟集团：上半年SaaS增长强劲 精准营销逆势大增.docx
+[2019-12-16 09:39:01] -> 开始翻译【合作伙伴】意锐与网联、JCB等9家机构成为中国支付清算协会会员.docx
+[2019-12-16 09:39:15] -> 【合作伙伴】意锐与网联、JCB等9家机构成为中国支付清算协会会员.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】意锐与网联、JCB等9家机构成为中国支付清算协会会员.docx
+[2019-12-16 09:39:15] -> 开始翻译【合作伙伴】意锐关恒：移动支付行业升级需要坚守“工匠精神”.docx
+[2019-12-16 09:39:37] -> 【合作伙伴】意锐关恒：移动支付行业升级需要坚守“工匠精神”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】意锐关恒：移动支付行业升级需要坚守“工匠精神”.docx
+[2019-12-16 09:39:37] -> 开始翻译【合作伙伴】抢占光芯片高地 打造索尔思的中国“芯”.docx
+[2019-12-16 09:39:51] -> 【合作伙伴】抢占光芯片高地 打造索尔思的中国“芯”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】抢占光芯片高地 打造索尔思的中国“芯”.docx
+[2019-12-16 09:39:51] -> 开始翻译【合作伙伴】擎盾荣获“全国政法智能化建设智慧法院十大创新产品”.docx
+[2019-12-16 09:39:56] -> 【合作伙伴】擎盾荣获“全国政法智能化建设智慧法院十大创新产品”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】擎盾荣获“全国政法智能化建设智慧法院十大创新产品”.docx
+[2019-12-16 09:39:56] -> 开始翻译【合作伙伴】数据+AI，如何驱动政务服务升级？答案在这里….docx
+[2019-12-16 09:40:08] -> 【合作伙伴】数据+AI，如何驱动政务服务升级？答案在这里….docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】数据+AI，如何驱动政务服务升级？答案在这里….docx
+[2019-12-16 09:40:08] -> 开始翻译【合作伙伴】数据中台领域首次行业峰会杭州召开，超25万人次围观.docx
+[2019-12-16 09:40:49] -> 【合作伙伴】数据中台领域首次行业峰会杭州召开，超25万人次围观.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】数据中台领域首次行业峰会杭州召开，超25万人次围观.docx
+[2019-12-16 09:40:49] -> 开始翻译【合作伙伴】数据智能公司中的“少数派”，数澜科技为什么选择做平台？.docx
+[2019-12-16 09:41:49] -> 【合作伙伴】数据智能公司中的“少数派”，数澜科技为什么选择做平台？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】数据智能公司中的“少数派”，数澜科技为什么选择做平台？.docx
+[2019-12-16 09:41:49] -> 开始翻译【合作伙伴】数澜地产数据中台已沉淀多个业务价值场景.docx
+[2019-12-16 09:42:07] -> 【合作伙伴】数澜地产数据中台已沉淀多个业务价值场景.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】数澜地产数据中台已沉淀多个业务价值场景.docx
+[2019-12-16 09:42:07] -> 开始翻译【合作伙伴】数澜科技完成1亿元A+轮融资，打造企业数据能力输出闭环.docx
+[2019-12-16 09:42:23] -> 【合作伙伴】数澜科技完成1亿元A+轮融资，打造企业数据能力输出闭环.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】数澜科技完成1亿元A+轮融资，打造企业数据能力输出闭环.docx
+[2019-12-16 09:42:23] -> 开始翻译【合作伙伴】数澜科技成功入选机器之心“全球最具前途的100家数据智能公司”.docx
+[2019-12-16 09:42:41] -> 【合作伙伴】数澜科技成功入选机器之心“全球最具前途的100家数据智能公司”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】数澜科技成功入选机器之心“全球最具前途的100家数据智能公司”.docx
+[2019-12-16 09:42:41] -> 开始翻译【合作伙伴】明略数据完成20亿元D轮融资，腾讯领投.docx
+[2019-12-16 09:43:00] -> 【合作伙伴】明略数据完成20亿元D轮融资，腾讯领投.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】明略数据完成20亿元D轮融资，腾讯领投.docx
+[2019-12-16 09:43:00] -> 开始翻译【合作伙伴】明略科技发布数据中台战略 助力企业加速创新.docx
+[2019-12-16 09:43:26] -> 【合作伙伴】明略科技发布数据中台战略 助力企业加速创新.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】明略科技发布数据中台战略 助力企业加速创新.docx
+[2019-12-16 09:43:26] -> 开始翻译【合作伙伴】明略科技集团成为人工智能重大产业项目合作方.docx
+[2019-12-16 09:43:42] -> 【合作伙伴】明略科技集团成为人工智能重大产业项目合作方.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】明略科技集团成为人工智能重大产业项目合作方.docx
+[2019-12-16 09:43:42] -> 开始翻译【合作伙伴】曹操出行首单绿色ABS成功发行.docx
+[2019-12-16 09:43:50] -> 【合作伙伴】曹操出行首单绿色ABS成功发行.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】曹操出行首单绿色ABS成功发行.docx
+[2019-12-16 09:43:50] -> 开始翻译【合作伙伴】江苏移动携手紫金山实验室、赛特斯成功开通全球首个2.6GHz 5G O-RAN SA独立组网基站.docx
+[2019-12-16 09:44:00] -> 【合作伙伴】江苏移动携手紫金山实验室、赛特斯成功开通全球首个2.6GHz 5G O-RAN SA独立组网基站.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】江苏移动携手紫金山实验室、赛特斯成功开通全球首个2.6GHz 5G O-RAN SA独立组网基站.docx
+[2019-12-16 09:44:00] -> 开始翻译【合作伙伴】浙江永宁药业重磅品种搏力高®首家通过一致性评价！.docx
+[2019-12-16 09:44:12] -> 【合作伙伴】浙江永宁药业重磅品种搏力高®首家通过一致性评价！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】浙江永宁药业重磅品种搏力高®首家通过一致性评价！.docx
+[2019-12-16 09:44:12] -> 开始翻译【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx
+[2019-12-16 09:44:35] -> 【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】滨江服务港交所上市，未来计划有质量的增长.docx
+[2019-12-16 09:44:35] -> 开始翻译【合作伙伴】烽火众智拟作价11.2亿注入上市公司长江通信.docx
+[2019-12-16 09:44:40] -> 【合作伙伴】烽火众智拟作价11.2亿注入上市公司长江通信.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】烽火众智拟作价11.2亿注入上市公司长江通信.docx
+[2019-12-16 09:44:40] -> 开始翻译【合作伙伴】熙香与习总书记同框，因为这个颐享餐.docx
+[2019-12-16 09:44:51] -> 【合作伙伴】熙香与习总书记同框，因为这个颐享餐.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】熙香与习总书记同框，因为这个颐享餐.docx
+[2019-12-16 09:44:51] -> 开始翻译【合作伙伴】物产中大（600704.SH）入选 “中证浙江凤凰行动50指数”.docx
+[2019-12-16 09:44:59] -> 【合作伙伴】物产中大（600704.SH）入选 “中证浙江凤凰行动50指数”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】物产中大（600704.SH）入选 “中证浙江凤凰行动50指数”.docx
+[2019-12-16 09:44:59] -> 开始翻译【合作伙伴】物产中大（600704.SH）入选上证380指数样本股名单.docx
+[2019-12-16 09:45:07] -> 【合作伙伴】物产中大（600704.SH）入选上证380指数样本股名单.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】物产中大（600704.SH）入选上证380指数样本股名单.docx
+[2019-12-16 09:45:07] -> 开始翻译【合作伙伴】物产中大（600704.SH）入选的凤凰行动50ETF基金上市.docx
+[2019-12-16 09:45:13] -> 【合作伙伴】物产中大（600704.SH）入选的凤凰行动50ETF基金上市.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】物产中大（600704.SH）入选的凤凰行动50ETF基金上市.docx
+[2019-12-16 09:45:13] -> 开始翻译【合作伙伴】物产中大：加快实施流通4.0 打造智慧供应链.docx
+[2019-12-16 09:45:39] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:46:01] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:46:23] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:46:46] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:47:08] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:47:30] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:47:52] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:48:14] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:48:36] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:48:36] -> 以下内容尝试9次仍翻译失败，内容【 据了解，物产中大的金属、能源、化工、汽车等4大主营品种的实物量持续保持全国经销商前列，服务世界500强客户超过150家，央企客户超过80家，同时加快全球化业务布局，现有海外公司16家，主要业务遍布全球70多个国家和地区。 】
+[2019-12-16 09:48:58] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:49:20] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:49:42] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:50:04] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:50:26] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:50:48] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:51:11] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:51:33] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:51:55] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:51:55] -> 以下内容尝试9次仍翻译失败，内容【 智慧供应链全面激发价值潜能 】
+[2019-12-16 09:52:16] -> 调用 google_translate 方法出现异常。
+[2019-12-16 09:52:33] -> 【合作伙伴】物产中大：加快实施流通4.0 打造智慧供应链.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】物产中大：加快实施流通4.0 打造智慧供应链.docx
+[2019-12-16 09:52:33] -> 开始翻译【合作伙伴】科创板AI第一股，和它背后的视觉新机会.docx
+[2019-12-16 09:59:48] -> 【合作伙伴】科创板AI第一股，和它背后的视觉新机会.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】科创板AI第一股，和它背后的视觉新机会.docx
+[2019-12-16 09:59:48] -> 开始翻译【合作伙伴】科创板虹软科技正式发布发行价格.docx
+[2019-12-16 10:00:12] -> 【合作伙伴】科创板虹软科技正式发布发行价格.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】科创板虹软科技正式发布发行价格.docx
+[2019-12-16 10:00:12] -> 开始翻译【合作伙伴】联创电子获国金投资加持 助力南昌电子信息产业大发展.docx
+[2019-12-16 10:00:38] -> 【合作伙伴】联创电子获国金投资加持 助力南昌电子信息产业大发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】联创电子获国金投资加持 助力南昌电子信息产业大发展.docx
+[2019-12-16 10:00:38] -> 开始翻译【合作伙伴】虹软携DSM、ADAS等多款车载AI产品亮相CITE2019.docx
+[2019-12-16 10:01:09] -> 【合作伙伴】虹软携DSM、ADAS等多款车载AI产品亮相CITE2019.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】虹软携DSM、ADAS等多款车载AI产品亮相CITE2019.docx
+[2019-12-16 10:01:09] -> 开始翻译【合作伙伴】虹软科技邓晖：潜心研算法 慧眼看“视界”.docx
+[2019-12-16 10:03:23] -> 【合作伙伴】虹软科技邓晖：潜心研算法 慧眼看“视界”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】虹软科技邓晖：潜心研算法 慧眼看“视界”.docx
+[2019-12-16 10:03:23] -> 开始翻译【合作伙伴】虹软让智能视觉普惠落地 获全国双创AIoT示范成果奖.docx
+[2019-12-16 10:03:55] -> 【合作伙伴】虹软让智能视觉普惠落地 获全国双创AIoT示范成果奖.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】虹软让智能视觉普惠落地 获全国双创AIoT示范成果奖.docx
+[2019-12-16 10:03:55] -> 开始翻译【合作伙伴】诺诚健华，天广实强强联合：TK(Orelabrutinib)+CD20联用.docx
+[2019-12-16 10:04:30] -> 【合作伙伴】诺诚健华，天广实强强联合：TK(Orelabrutinib)+CD20联用.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】诺诚健华，天广实强强联合：TK(Orelabrutinib)+CD20联用.docx
+[2019-12-16 10:04:30] -> 开始翻译【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx
+[2019-12-16 10:05:08] -> 【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】财通证券与湖州市政府签订战略合作备忘录，并发布“湖州两山指数”.docx
+[2019-12-16 10:05:08] -> 开始翻译【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx
+[2019-12-16 10:05:38] -> 【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】财通证券牵手海盐 助力浙江省工业强县腾飞.docx
+[2019-12-16 10:05:38] -> 开始翻译【合作伙伴】赛特斯助力全国首创新能源汽车电机生产线无人工厂建成.docx
+[2019-12-16 10:06:34] -> 【合作伙伴】赛特斯助力全国首创新能源汽车电机生产线无人工厂建成.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】赛特斯助力全国首创新能源汽车电机生产线无人工厂建成.docx
+[2019-12-16 10:06:34] -> 开始翻译【合作伙伴】赛特斯发布战略全新注解 软件定义通信使能5G.docx
+[2019-12-16 10:07:48] -> 【合作伙伴】赛特斯发布战略全新注解 软件定义通信使能5G.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】赛特斯发布战略全新注解 软件定义通信使能5G.docx
+[2019-12-16 10:07:48] -> 开始翻译【合作伙伴】赛特斯携手英特尔 以AI掀开垂直行业数字化新变革.docx
+[2019-12-16 10:08:18] -> 【合作伙伴】赛特斯携手英特尔 以AI掀开垂直行业数字化新变革.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】赛特斯携手英特尔 以AI掀开垂直行业数字化新变革.docx
+[2019-12-16 10:08:18] -> 开始翻译【合作伙伴】远传升级战略规划，发布U智智能中台.docx
+[2019-12-16 10:08:40] -> 【合作伙伴】远传升级战略规划，发布U智智能中台.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传升级战略规划，发布U智智能中台.docx
+[2019-12-16 10:08:40] -> 开始翻译【合作伙伴】远传技术“比亚迪商呼平台”获可信云大会行业大奖.docx
+[2019-12-16 10:09:01] -> 【合作伙伴】远传技术“比亚迪商呼平台”获可信云大会行业大奖.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术“比亚迪商呼平台”获可信云大会行业大奖.docx
+[2019-12-16 10:09:01] -> 开始翻译【合作伙伴】远传技术与CTI联合主办客服创新研讨会：AI赋能共享，让天下没有难做的客服.docx
+[2019-12-16 10:09:33] -> 【合作伙伴】远传技术与CTI联合主办客服创新研讨会：AI赋能共享，让天下没有难做的客服.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术与CTI联合主办客服创新研讨会：AI赋能共享，让天下没有难做的客服.docx
+[2019-12-16 10:09:33] -> 开始翻译【合作伙伴】远传技术斩获杭州市2018年度技术成果创新与促进奖.docx
+[2019-12-16 10:09:54] -> 【合作伙伴】远传技术斩获杭州市2018年度技术成果创新与促进奖.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术斩获杭州市2018年度技术成果创新与促进奖.docx
+[2019-12-16 10:09:54] -> 开始翻译【合作伙伴】远传技术获2019年度数字政府示范实践奖.docx
+[2019-12-16 10:10:19] -> 【合作伙伴】远传技术获2019年度数字政府示范实践奖.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术获2019年度数字政府示范实践奖.docx
+[2019-12-16 10:10:19] -> 开始翻译【合作伙伴】远传技术董事长徐立新接受媒体专访.docx
+[2019-12-16 10:11:24] -> 【合作伙伴】远传技术董事长徐立新接受媒体专访.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术董事长徐立新接受媒体专访.docx
+[2019-12-16 10:11:24] -> 开始翻译【合作伙伴】远传智能交互系列产品上架，温州智慧城市体验馆又添“黑科技”.docx
+[2019-12-16 10:11:38] -> 【合作伙伴】远传智能交互系列产品上架，温州智慧城市体验馆又添“黑科技”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传智能交互系列产品上架，温州智慧城市体验馆又添“黑科技”.docx
+[2019-12-16 10:11:38] -> 开始翻译【合作伙伴】远传连获两项大奖，展示智能交互技术新成果.doc
+[2019-12-16 10:15:26] -> 提取到 13 个文档
+[2019-12-16 10:15:26] -> 开始翻译【合作伙伴】中国智能科学技术最高奖揭晓 小i机器人荣获第九届吴文俊人工智能科技进步奖.docx
+[2019-12-16 10:15:55] -> 【合作伙伴】中国智能科学技术最高奖揭晓 小i机器人荣获第九届吴文俊人工智能科技进步奖.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中国智能科学技术最高奖揭晓 小i机器人荣获第九届吴文俊人工智能科技进步奖1.docx
+[2019-12-16 10:15:55] -> 开始翻译【合作伙伴】中国（阳信）炭素新材料国际高峰论坛暨京阳科技五周年庆典在滨州隆重召开.docx
+[2019-12-16 10:16:38] -> 【合作伙伴】中国（阳信）炭素新材料国际高峰论坛暨京阳科技五周年庆典在滨州隆重召开.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中国（阳信）炭素新材料国际高峰论坛暨京阳科技五周年庆典在滨州隆重召开1.docx
+[2019-12-16 10:16:38] -> 开始翻译【合作伙伴】中奥科技数据中台，引领警务数据服务化新模式.docx
+[2019-12-16 10:17:04] -> 【合作伙伴】中奥科技数据中台，引领警务数据服务化新模式.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中奥科技数据中台，引领警务数据服务化新模式1.docx
+[2019-12-16 10:17:04] -> 开始翻译【合作伙伴】云中鹤荣膺“中国智慧零售模式创新奖”.docx
+[2019-12-16 10:17:40] -> 【合作伙伴】云中鹤荣膺“中国智慧零售模式创新奖”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云中鹤荣膺“中国智慧零售模式创新奖”1.docx
+[2019-12-16 10:17:40] -> 开始翻译【合作伙伴】云创大数据张真董事长入选第四批国家“万人计划”科技创业领军人才.docx
+[2019-12-16 10:18:07] -> 【合作伙伴】云创大数据张真董事长入选第四批国家“万人计划”科技创业领军人才.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据张真董事长入选第四批国家“万人计划”科技创业领军人才1.docx
+[2019-12-16 10:18:07] -> 开始翻译【合作伙伴】云创大数据获批“工业和信息化人才培养工程培训基地”！.docx
+[2019-12-16 10:18:32] -> 【合作伙伴】云创大数据获批“工业和信息化人才培养工程培训基地”！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据获批“工业和信息化人才培养工程培训基地”！1.docx
+[2019-12-16 10:18:32] -> 开始翻译【合作伙伴】云创大数据获评“江苏省软件企业技术中心”.docx
+[2019-12-16 10:18:56] -> 【合作伙伴】云创大数据获评“江苏省软件企业技术中心”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据获评“江苏省软件企业技术中心”1.docx
+[2019-12-16 10:18:56] -> 开始翻译【合作伙伴】云创大数据通过ISO IEC 27001信息安全管理体系认证 .docx
+[2019-12-16 10:19:17] -> 【合作伙伴】云创大数据通过ISO IEC 27001信息安全管理体系认证 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据通过ISO IEC 27001信息安全管理体系认证 1.docx
+[2019-12-16 10:19:17] -> 开始翻译【合作伙伴】云创大数据顺利通过CMMI3认证，研发管理能力获国际认可.docx
+[2019-12-16 10:19:41] -> 【合作伙伴】云创大数据顺利通过CMMI3认证，研发管理能力获国际认可.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据顺利通过CMMI3认证，研发管理能力获国际认可1.docx
+[2019-12-16 10:19:41] -> 开始翻译【合作伙伴】浙江永宁药业重磅品种搏力高®首家通过一致性评价！.docx
+[2019-12-16 10:20:11] -> 【合作伙伴】浙江永宁药业重磅品种搏力高®首家通过一致性评价！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】浙江永宁药业重磅品种搏力高®首家通过一致性评价！1.docx
+[2019-12-16 10:20:11] -> 开始翻译【合作伙伴】长川科技并购STI公司获中国证监会审核通过.docx
+[2019-12-16 10:20:31] -> 【合作伙伴】长川科技并购STI公司获中国证监会审核通过.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】长川科技并购STI公司获中国证监会审核通过.docx
+[2019-12-16 10:20:31] -> 开始翻译【合作伙伴】长川科技收购STI交易完成 上海装备材料基金投资加速.docx
+[2019-12-16 10:20:59] -> 【合作伙伴】长川科技收购STI交易完成 上海装备材料基金投资加速.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】长川科技收购STI交易完成 上海装备材料基金投资加速.docx
+[2019-12-16 10:20:59] -> 开始翻译【合作伙伴】长川科技获上市公司科技创新百强企业“小巨人”荣誉.docx
+[2019-12-16 10:21:10] -> 【合作伙伴】长川科技获上市公司科技创新百强企业“小巨人”荣誉.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】长川科技获上市公司科技创新百强企业“小巨人”荣誉.docx
+[2019-12-16 10:21:10] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-16 10:25:38] -> 提取到 142 个文档
+[2019-12-16 10:25:38] -> 开始翻译【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx
+[2019-12-16 10:26:08] -> 【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx
+[2019-12-16 10:26:08] -> 开始翻译【基金公告】合肥天堂硅谷安创股权投资合伙企业（有限合伙）成立公告.docx
+[2019-12-16 10:26:20] -> 调用 google_translate 方法出现异常。
+[2019-12-16 10:26:39] -> 【基金公告】合肥天堂硅谷安创股权投资合伙企业（有限合伙）成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】合肥天堂硅谷安创股权投资合伙企业（有限合伙）成立公告.docx
+[2019-12-16 10:26:39] -> 开始翻译【基金公告】天堂硅谷-久盈6号资产管理计划分配公告.docx
+[2019-12-16 10:27:14] -> 【基金公告】天堂硅谷-久盈6号资产管理计划分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久盈6号资产管理计划分配公告.docx
+[2019-12-16 10:27:14] -> 开始翻译【基金公告】天堂硅谷-久盈6号资产管理计划基金分配公告.docx
+[2019-12-16 10:27:42] -> 【基金公告】天堂硅谷-久盈6号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久盈6号资产管理计划基金分配公告.docx
+[2019-12-16 10:27:42] -> 开始翻译【基金公告】天堂硅谷-久盈7号私募投资基金延期公告.docx
+[2019-12-16 10:27:56] -> 【基金公告】天堂硅谷-久盈7号私募投资基金延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久盈7号私募投资基金延期公告.docx
+[2019-12-16 10:27:56] -> 开始翻译【基金公告】天堂硅谷-久盈7号私募投资基金清算公告.docx
+[2019-12-16 10:28:14] -> 【基金公告】天堂硅谷-久盈7号私募投资基金清算公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久盈7号私募投资基金清算公告.docx
+[2019-12-16 10:28:14] -> 开始翻译【基金公告】天堂硅谷-久通14号私募投资基金分配公告 (2).docx
+[2019-12-16 10:28:35] -> 【基金公告】天堂硅谷-久通14号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通14号私募投资基金分配公告 (2).docx
+[2019-12-16 10:28:35] -> 开始翻译【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx
+[2019-12-16 10:28:55] -> 【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx
+[2019-12-16 10:28:55] -> 开始翻译【基金公告】天堂硅谷-久通15号私募投资基金分配公告 (2).docx
+[2019-12-16 10:29:14] -> 【基金公告】天堂硅谷-久通15号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通15号私募投资基金分配公告 (2).docx
+[2019-12-16 10:29:14] -> 开始翻译【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx
+[2019-12-16 10:29:31] -> 【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx
+[2019-12-16 10:29:31] -> 开始翻译【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx
+[2019-12-16 10:29:51] -> 【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx
+[2019-12-16 10:29:51] -> 开始翻译【基金公告】天堂硅谷-全权委托10号私募投资基金临开赎回公告.docx
+[2019-12-16 10:30:04] -> 【基金公告】天堂硅谷-全权委托10号私募投资基金临开赎回公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-全权委托10号私募投资基金临开赎回公告.docx
+[2019-12-16 10:30:04] -> 开始翻译【基金公告】天堂硅谷-全权委托17号私募投资基金临时开放公告.docx
+[2019-12-16 10:30:13] -> 【基金公告】天堂硅谷-全权委托17号私募投资基金临时开放公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-全权委托17号私募投资基金临时开放公告.docx
+[2019-12-16 10:30:13] -> 开始翻译【基金公告】天堂硅谷-全权委托18号私募股权投资基金成立公告.docx
+[2019-12-16 10:30:23] -> 【基金公告】天堂硅谷-全权委托18号私募股权投资基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-全权委托18号私募股权投资基金成立公告.docx
+[2019-12-16 10:30:23] -> 开始翻译【基金公告】天堂硅谷-全权委托1号资产管理计划临开赎回公告.docx
+[2019-12-16 10:30:36] -> 【基金公告】天堂硅谷-全权委托1号资产管理计划临开赎回公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-全权委托1号资产管理计划临开赎回公告.docx
+[2019-12-16 10:30:36] -> 开始翻译【基金公告】天堂硅谷-全权委托1号资产管理计划临时申购开放日公告.docx
+[2019-12-16 10:30:47] -> 【基金公告】天堂硅谷-全权委托1号资产管理计划临时申购开放日公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-全权委托1号资产管理计划临时申购开放日公告.docx
+[2019-12-16 10:30:47] -> 开始翻译【基金公告】天堂硅谷-全权委托9号私募投资基金临开赎回公告.docx
+[2019-12-16 10:31:01] -> 【基金公告】天堂硅谷-全权委托9号私募投资基金临开赎回公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-全权委托9号私募投资基金临开赎回公告.docx
+[2019-12-16 10:31:01] -> 开始翻译【基金公告】天堂硅谷-定增融源1号资产管理计划分配公告.docx
+[2019-12-16 10:31:20] -> 【基金公告】天堂硅谷-定增融源1号资产管理计划分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-定增融源1号资产管理计划分配公告.docx
+[2019-12-16 10:31:20] -> 开始翻译【基金公告】天堂硅谷-定增融源1号资产管理计划延期公告.docx
+[2019-12-16 10:31:59] -> 【基金公告】天堂硅谷-定增融源1号资产管理计划延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-定增融源1号资产管理计划延期公告.docx
+[2019-12-16 10:31:59] -> 开始翻译【基金公告】天堂硅谷-定增融源2号资产管理计划基金分配公告.docx
+[2019-12-16 10:32:16] -> 【基金公告】天堂硅谷-定增融源2号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-定增融源2号资产管理计划基金分配公告.docx
+[2019-12-16 10:32:16] -> 开始翻译【基金公告】天堂硅谷-定增融源2号资产管理计划延期公告.docx
+[2019-12-16 10:32:50] -> 【基金公告】天堂硅谷-定增融源2号资产管理计划延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-定增融源2号资产管理计划延期公告.docx
+[2019-12-16 10:32:50] -> 开始翻译【基金公告】天堂硅谷-祥瑞10号资产管理计划基金分配公告.docx
+[2019-12-16 10:33:10] -> 【基金公告】天堂硅谷-祥瑞10号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞10号资产管理计划基金分配公告.docx
+[2019-12-16 10:33:10] -> 开始翻译【基金公告】天堂硅谷-祥瑞6号资产管理计划基金分配公告 (2).docx
+[2019-12-16 10:33:35] -> 【基金公告】天堂硅谷-祥瑞6号资产管理计划基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞6号资产管理计划基金分配公告 (2).docx
+[2019-12-16 10:33:35] -> 开始翻译【基金公告】天堂硅谷-祥瑞6号资产管理计划基金分配公告.docx
+[2019-12-16 10:33:55] -> 【基金公告】天堂硅谷-祥瑞6号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞6号资产管理计划基金分配公告.docx
+[2019-12-16 10:33:55] -> 开始翻译【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告 (2).docx
+[2019-12-16 10:34:16] -> 【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告 (2).docx
+[2019-12-16 10:34:16] -> 开始翻译【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx
+[2019-12-16 10:34:36] -> 【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx
+[2019-12-16 10:34:36] -> 开始翻译【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx
+[2019-12-16 10:34:56] -> 【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx
+[2019-12-16 10:34:56] -> 开始翻译【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx
+[2019-12-16 10:35:15] -> 【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx
+[2019-12-16 10:35:15] -> 开始翻译【基金公告】天堂硅谷-精福1号资产管理计划基金分配公告.docx
+[2019-12-16 10:35:32] -> 【基金公告】天堂硅谷-精福1号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-精福1号资产管理计划基金分配公告.docx
+[2019-12-16 10:35:32] -> 开始翻译【基金公告】天堂硅谷-聚盈1A号资产管理计划基金经理变更公告.docx
+[2019-12-16 10:35:46] -> 【基金公告】天堂硅谷-聚盈1A号资产管理计划基金经理变更公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1A号资产管理计划基金经理变更公告.docx
+[2019-12-16 10:35:46] -> 开始翻译【基金公告】天堂硅谷-聚盈1A号资产管理计划清算分配公告.docx
+[2019-12-16 10:36:09] -> 【基金公告】天堂硅谷-聚盈1A号资产管理计划清算分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1A号资产管理计划清算分配公告.docx
+[2019-12-16 10:36:09] -> 开始翻译【基金公告】天堂硅谷-聚盈1A号资产管理计划第二次减资分配公告.docx
+[2019-12-16 10:36:31] -> 【基金公告】天堂硅谷-聚盈1A号资产管理计划第二次减资分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1A号资产管理计划第二次减资分配公告.docx
+[2019-12-16 10:36:31] -> 开始翻译【基金公告】天堂硅谷-聚盈1B号资产管理计划清算分配公告.docx
+[2019-12-16 10:36:56] -> 【基金公告】天堂硅谷-聚盈1B号资产管理计划清算分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1B号资产管理计划清算分配公告.docx
+[2019-12-16 10:36:56] -> 开始翻译【基金公告】天堂硅谷-聚盈1B号资产管理计划第二次减资分配公告.docx
+[2019-12-16 10:37:18] -> 【基金公告】天堂硅谷-聚盈1B号资产管理计划第二次减资分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1B号资产管理计划第二次减资分配公告.docx
+[2019-12-16 10:37:18] -> 开始翻译【基金公告】天堂硅谷-聚盈1B资产管理计划基金经理变更公告.docx
+[2019-12-16 10:37:32] -> 【基金公告】天堂硅谷-聚盈1B资产管理计划基金经理变更公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1B资产管理计划基金经理变更公告.docx
+[2019-12-16 10:37:32] -> 开始翻译【基金公告】天堂硅谷-聚盈1号资产管理计划基金经理变更公告.docx
+[2019-12-16 10:37:46] -> 【基金公告】天堂硅谷-聚盈1号资产管理计划基金经理变更公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1号资产管理计划基金经理变更公告.docx
+[2019-12-16 10:37:46] -> 开始翻译【基金公告】天堂硅谷-聚盈1号资产管理计划清算分配公告.docx
+[2019-12-16 10:38:09] -> 【基金公告】天堂硅谷-聚盈1号资产管理计划清算分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1号资产管理计划清算分配公告.docx
+[2019-12-16 10:38:09] -> 开始翻译【基金公告】天堂硅谷-聚盈1号资产管理计划第二次减资分配公告.docx
+[2019-12-16 10:38:30] -> 【基金公告】天堂硅谷-聚盈1号资产管理计划第二次减资分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-聚盈1号资产管理计划第二次减资分配公告.docx
+[2019-12-16 10:38:30] -> 开始翻译【基金公告】天堂硅谷-融源2号资产管理计划基金分配公告.docx
+[2019-12-16 10:38:48] -> 【基金公告】天堂硅谷-融源2号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-融源2号资产管理计划基金分配公告.docx
+[2019-12-16 10:38:48] -> 开始翻译【基金公告】天堂硅谷-贤辅1号资产管理计划分配公告.docx
+[2019-12-16 10:39:07] -> 【基金公告】天堂硅谷-贤辅1号资产管理计划分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-贤辅1号资产管理计划分配公告.docx
+[2019-12-16 10:39:07] -> 开始翻译【基金公告】天堂硅谷-贤辅1号资产管理计划基金分配公告.docx
+[2019-12-16 10:39:28] -> 【基金公告】天堂硅谷-贤辅1号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-贤辅1号资产管理计划基金分配公告.docx
+[2019-12-16 10:39:28] -> 开始翻译【基金公告】天堂硅谷-阿尔法1号资产管理计划基金清算公告.docx
+[2019-12-16 10:39:54] -> 【基金公告】天堂硅谷-阿尔法1号资产管理计划基金清算公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-阿尔法1号资产管理计划基金清算公告.docx
+[2019-12-16 10:39:54] -> 开始翻译【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx
+[2019-12-16 10:40:11] -> 【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx
+[2019-12-16 10:40:11] -> 开始翻译【基金公告】天堂硅谷PIPE1号资产管理计划基金分配报告.docx
+[2019-12-16 10:40:31] -> 【基金公告】天堂硅谷PIPE1号资产管理计划基金分配报告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE1号资产管理计划基金分配报告.docx
+[2019-12-16 10:40:31] -> 开始翻译【基金公告】天堂硅谷PIPE2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:40:47] -> 【基金公告】天堂硅谷PIPE2号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:40:47] -> 开始翻译【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2019-12-16 10:41:06] -> 【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2019-12-16 10:41:06] -> 开始翻译【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2019-12-16 10:41:26] -> 【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2019-12-16 10:41:26] -> 开始翻译【基金公告】天堂硅谷PIPE5号私募投资基金基金分配公告.docx
+[2019-12-16 10:41:46] -> 【基金公告】天堂硅谷PIPE5号私募投资基金基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE5号私募投资基金基金分配公告.docx
+[2019-12-16 10:41:46] -> 开始翻译【基金公告】天堂硅谷久盈5号资产管理计划分配公告.docx
+[2019-12-16 10:42:13] -> 【基金公告】天堂硅谷久盈5号资产管理计划分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷久盈5号资产管理计划分配公告.docx
+[2019-12-16 10:42:13] -> 开始翻译【基金公告】天堂硅谷久盈5号资产管理计划基金分配公告.docx
+[2019-12-16 10:42:37] -> 【基金公告】天堂硅谷久盈5号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷久盈5号资产管理计划基金分配公告.docx
+[2019-12-16 10:42:37] -> 开始翻译【基金公告】天堂硅谷久盈8A号私募投资基金分配公告.docx
+[2019-12-16 10:42:58] -> 【基金公告】天堂硅谷久盈8A号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷久盈8A号私募投资基金分配公告.docx
+[2019-12-16 10:42:58] -> 开始翻译【基金公告】天堂硅谷久盈8号私募投资基金分配公告 (2).docx
+[2019-12-16 10:43:20] -> 【基金公告】天堂硅谷久盈8号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷久盈8号私募投资基金分配公告 (2).docx
+[2019-12-16 10:43:20] -> 开始翻译【基金公告】天堂硅谷久盈8号私募投资基金分配公告.docx
+[2019-12-16 10:43:39] -> 【基金公告】天堂硅谷久盈8号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷久盈8号私募投资基金分配公告.docx
+[2019-12-16 10:43:39] -> 开始翻译【基金公告】天堂硅谷价值1号私募基金开放赎回公告 (2).docx
+[2019-12-16 10:43:53] -> 【基金公告】天堂硅谷价值1号私募基金开放赎回公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷价值1号私募基金开放赎回公告 (2).docx
+[2019-12-16 10:43:53] -> 开始翻译【基金公告】天堂硅谷价值1号私募基金开放赎回公告.docx
+[2019-12-16 10:44:04] -> 【基金公告】天堂硅谷价值1号私募基金开放赎回公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷价值1号私募基金开放赎回公告.docx
+[2019-12-16 10:44:04] -> 开始翻译【基金公告】天堂硅谷先进制造行业聚焦2号私募投资基金成立公告.docx
+[2019-12-16 10:44:18] -> 【基金公告】天堂硅谷先进制造行业聚焦2号私募投资基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷先进制造行业聚焦2号私募投资基金成立公告.docx
+[2019-12-16 10:44:18] -> 开始翻译【基金公告】天堂硅谷先进制造行业聚焦2号私募股权投资基金成立公告.docx
+[2019-12-16 10:44:35] -> 【基金公告】天堂硅谷先进制造行业聚焦2号私募股权投资基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷先进制造行业聚焦2号私募股权投资基金成立公告.docx
+[2019-12-16 10:44:35] -> 开始翻译【基金公告】天堂硅谷先进制造行业聚焦私募投资基金成立公告.docx
+[2019-12-16 10:44:49] -> 【基金公告】天堂硅谷先进制造行业聚焦私募投资基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷先进制造行业聚焦私募投资基金成立公告.docx
+[2019-12-16 10:44:49] -> 开始翻译【基金公告】天堂硅谷光大绿色环保私募投资基金延期公告 (2).docx
+[2019-12-16 10:45:18] -> 【基金公告】天堂硅谷光大绿色环保私募投资基金延期公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷光大绿色环保私募投资基金延期公告 (2).docx
+[2019-12-16 10:45:18] -> 开始翻译【基金公告】天堂硅谷光大绿色环保私募投资基金延期公告.docx
+[2019-12-16 10:45:45] -> 【基金公告】天堂硅谷光大绿色环保私募投资基金延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷光大绿色环保私募投资基金延期公告.docx
+[2019-12-16 10:45:45] -> 开始翻译【基金公告】天堂硅谷味央科技专项私募股权投资基金成立公告.docx
+[2019-12-16 10:45:55] -> 【基金公告】天堂硅谷味央科技专项私募股权投资基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷味央科技专项私募股权投资基金成立公告.docx
+[2019-12-16 10:45:55] -> 开始翻译【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:46:24] -> 【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:46:24] -> 开始翻译【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (3).docx
+[2019-12-16 10:46:52] -> 【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (3).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (3).docx
+[2019-12-16 10:46:52] -> 开始翻译【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (4).docx
+[2019-12-16 10:47:20] -> 【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (4).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (4).docx
+[2019-12-16 10:47:20] -> 开始翻译【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (5).docx
+[2019-12-16 10:47:49] -> 【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (5).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购2号私募投资基金分配公告 (5).docx
+[2019-12-16 10:47:49] -> 开始翻译【基金公告】天堂硅谷地产并购2号私募投资基金分配公告.docx
+[2019-12-16 10:48:13] -> 【基金公告】天堂硅谷地产并购2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购2号私募投资基金分配公告.docx
+[2019-12-16 10:48:13] -> 开始翻译【基金公告】天堂硅谷地产并购3号私募投资基金分配公告 (2).docx
+[2019-12-16 10:48:36] -> 【基金公告】天堂硅谷地产并购3号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购3号私募投资基金分配公告 (2).docx
+[2019-12-16 10:48:36] -> 开始翻译【基金公告】天堂硅谷地产并购3号私募投资基金分配公告.docx
+[2019-12-16 10:49:00] -> 【基金公告】天堂硅谷地产并购3号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购3号私募投资基金分配公告.docx
+[2019-12-16 10:49:00] -> 开始翻译【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (2).docx
+[2019-12-16 10:49:28] -> 【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (2).docx
+[2019-12-16 10:49:28] -> 开始翻译【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (3).docx
+[2019-12-16 10:49:56] -> 【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (3).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (3).docx
+[2019-12-16 10:49:56] -> 开始翻译【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (4).docx
+[2019-12-16 10:50:24] -> 【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (4).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (4).docx
+[2019-12-16 10:50:24] -> 开始翻译【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (5).docx
+[2019-12-16 10:50:52] -> 【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (5).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购5号私募投资基金分配公告 (5).docx
+[2019-12-16 10:50:52] -> 开始翻译【基金公告】天堂硅谷地产并购5号私募投资基金分配公告.docx
+[2019-12-16 10:51:17] -> 【基金公告】天堂硅谷地产并购5号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购5号私募投资基金分配公告.docx
+[2019-12-16 10:51:17] -> 开始翻译【基金公告】天堂硅谷地产并购6号私募投资基金分配公告 (2).docx
+[2019-12-16 10:51:39] -> 【基金公告】天堂硅谷地产并购6号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购6号私募投资基金分配公告 (2).docx
+[2019-12-16 10:51:39] -> 开始翻译【基金公告】天堂硅谷地产并购6号私募投资基金分配公告.docx
+[2019-12-16 10:52:02] -> 【基金公告】天堂硅谷地产并购6号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购6号私募投资基金分配公告.docx
+[2019-12-16 10:52:02] -> 开始翻译【基金公告】天堂硅谷天信1号私募股权投资基金成立公告.docx
+[2019-12-16 10:52:17] -> 【基金公告】天堂硅谷天信1号私募股权投资基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷天信1号私募股权投资基金成立公告.docx
+[2019-12-16 10:52:17] -> 开始翻译【基金公告】天堂硅谷天信1号私募股权投资基金申购开放期封闭公告.docx
+[2019-12-16 10:52:33] -> 【基金公告】天堂硅谷天信1号私募股权投资基金申购开放期封闭公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷天信1号私募股权投资基金申购开放期封闭公告.docx
+[2019-12-16 10:52:33] -> 开始翻译【基金公告】天堂硅谷天信1号私募股权投资基金设立临时申购开放日公告.docx
+[2019-12-16 10:52:45] -> 【基金公告】天堂硅谷天信1号私募股权投资基金设立临时申购开放日公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷天信1号私募股权投资基金设立临时申购开放日公告.docx
+[2019-12-16 10:52:45] -> 开始翻译【基金公告】天堂硅谷容百3号专项私募股权投资基金基金经理变更披露报告.docx
+[2019-12-16 10:53:07] -> 【基金公告】天堂硅谷容百3号专项私募股权投资基金基金经理变更披露报告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷容百3号专项私募股权投资基金基金经理变更披露报告.docx
+[2019-12-16 10:53:07] -> 开始翻译【基金公告】天堂硅谷容百专项2号股权私募投资基金基金经理变更披露报告.docx
+[2019-12-16 10:53:27] -> 【基金公告】天堂硅谷容百专项2号股权私募投资基金基金经理变更披露报告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷容百专项2号股权私募投资基金基金经理变更披露报告.docx
+[2019-12-16 10:53:27] -> 开始翻译【基金公告】天堂硅谷容百新能源专项股权私募投资基金基金经理变更披露报告.docx
+[2019-12-16 10:53:48] -> 【基金公告】天堂硅谷容百新能源专项股权私募投资基金基金经理变更披露报告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷容百新能源专项股权私募投资基金基金经理变更披露报告.docx
+[2019-12-16 10:53:48] -> 开始翻译【基金公告】天堂硅谷微盟专项股权私募投资基金分配公告 (2).docx
+[2019-12-16 10:54:04] -> 【基金公告】天堂硅谷微盟专项股权私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷微盟专项股权私募投资基金分配公告 (2).docx
+[2019-12-16 10:54:04] -> 开始翻译【基金公告】天堂硅谷微盟专项股权私募投资基金分配公告.docx
+[2019-12-16 10:54:26] -> 【基金公告】天堂硅谷微盟专项股权私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷微盟专项股权私募投资基金分配公告.docx
+[2019-12-16 10:54:26] -> 开始翻译【基金公告】天堂硅谷新兴产业2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:54:41] -> 【基金公告】天堂硅谷新兴产业2号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷新兴产业2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:54:41] -> 开始翻译【基金公告】天堂硅谷新兴产业2号私募投资基金分配公告.docx
+[2019-12-16 10:55:00] -> 【基金公告】天堂硅谷新兴产业2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷新兴产业2号私募投资基金分配公告.docx
+[2019-12-16 10:55:00] -> 开始翻译【基金公告】天堂硅谷新兴产业2号私募投资基金第二次分配公告.docx
+[2019-12-16 10:55:26] -> 【基金公告】天堂硅谷新兴产业2号私募投资基金第二次分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷新兴产业2号私募投资基金第二次分配公告.docx
+[2019-12-16 10:55:26] -> 开始翻译【基金公告】天堂硅谷新兴产业3A私募投资基金收益分配公告.docx
+[2019-12-16 10:55:50] -> 【基金公告】天堂硅谷新兴产业3A私募投资基金收益分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷新兴产业3A私募投资基金收益分配公告.docx
+[2019-12-16 10:55:50] -> 开始翻译【基金公告】天堂硅谷新兴产业3B私募投资基金收益分配公告.docx
+[2019-12-16 10:56:14] -> 【基金公告】天堂硅谷新兴产业3B私募投资基金收益分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷新兴产业3B私募投资基金收益分配公告.docx
+[2019-12-16 10:56:14] -> 开始翻译【基金公告】天堂硅谷滨江服务专项私募股权投资基金成立.docx
+[2019-12-16 10:56:30] -> 【基金公告】天堂硅谷滨江服务专项私募股权投资基金成立.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷滨江服务专项私募股权投资基金成立.docx
+[2019-12-16 10:56:30] -> 开始翻译【基金公告】天堂硅谷滨江服务专项股权投资私募基金首次申购开放期封闭.docx
+[2019-12-16 10:56:48] -> 【基金公告】天堂硅谷滨江服务专项股权投资私募基金首次申购开放期封闭.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷滨江服务专项股权投资私募基金首次申购开放期封闭.docx
+[2019-12-16 10:56:48] -> 开始翻译【基金公告】天堂硅谷环保产业私募投资基金第一次延期公告.docx
+[2019-12-16 10:57:19] -> 【基金公告】天堂硅谷环保产业私募投资基金第一次延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷环保产业私募投资基金第一次延期公告.docx
+[2019-12-16 10:57:19] -> 开始翻译【基金公告】天堂硅谷环保产业私募投资基金第二次延期公告.docx
+[2019-12-16 10:57:47] -> 【基金公告】天堂硅谷环保产业私募投资基金第二次延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷环保产业私募投资基金第二次延期公告.docx
+[2019-12-16 10:57:47] -> 开始翻译【基金公告】天堂硅谷盈丰资产管理计划第七次分配公告.docx
+[2019-12-16 10:58:12] -> 【基金公告】天堂硅谷盈丰资产管理计划第七次分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷盈丰资产管理计划第七次分配公告.docx
+[2019-12-16 10:58:12] -> 开始翻译【基金公告】天堂硅谷贤辅2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:58:28] -> 【基金公告】天堂硅谷贤辅2号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷贤辅2号私募投资基金分配公告 (2).docx
+[2019-12-16 10:58:28] -> 开始翻译【基金公告】天堂硅谷贤辅2号私募投资基金分配公告.docx
+[2019-12-16 10:58:51] -> 【基金公告】天堂硅谷贤辅2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷贤辅2号私募投资基金分配公告.docx
+[2019-12-16 10:58:51] -> 开始翻译【基金公告】天堂硅谷贤辅2号私募投资基金第二次分配公告.docx
+[2019-12-16 10:59:17] -> 【基金公告】天堂硅谷贤辅2号私募投资基金第二次分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷贤辅2号私募投资基金第二次分配公告.docx
+[2019-12-16 10:59:17] -> 开始翻译【基金公告】天堂硅谷金穗优选FOF1号私募投资基金分配公告.docx
+[2019-12-16 10:59:37] -> 【基金公告】天堂硅谷金穗优选FOF1号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷金穗优选FOF1号私募投资基金分配公告.docx
+[2019-12-16 10:59:37] -> 开始翻译【基金公告】天堂硅谷金穗优选FOF2C号私募投资基金分配公告 (2).docx
+[2019-12-16 11:00:02] -> 【基金公告】天堂硅谷金穗优选FOF2C号私募投资基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷金穗优选FOF2C号私募投资基金分配公告 (2).docx
+[2019-12-16 11:00:02] -> 开始翻译【基金公告】天堂硅谷金穗优选FOF2C号私募投资基金分配公告.docx
+[2019-12-16 11:00:20] -> 【基金公告】天堂硅谷金穗优选FOF2C号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷金穗优选FOF2C号私募投资基金分配公告.docx
+[2019-12-16 11:00:20] -> 开始翻译【基金公告】天堂硅谷金穗优选FOF2号私募投资基金分配公告.docx
+[2019-12-16 11:00:38] -> 【基金公告】天堂硅谷金穗优选FOF2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷金穗优选FOF2号私募投资基金分配公告.docx
+[2019-12-16 11:00:38] -> 开始翻译【基金公告】天堂硅谷金穗优选FOF2号私募投资基金基金经理变更公告.docx
+[2019-12-16 11:00:52] -> 【基金公告】天堂硅谷金穗优选FOF2号私募投资基金基金经理变更公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷金穗优选FOF2号私募投资基金基金经理变更公告.docx
+[2019-12-16 11:00:52] -> 开始翻译【基金公告】天蓝尊享股权投资私募基金分配公告 (2).docx
+[2019-12-16 11:01:11] -> 【基金公告】天蓝尊享股权投资私募基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天蓝尊享股权投资私募基金分配公告 (2).docx
+[2019-12-16 11:01:11] -> 开始翻译【基金公告】天蓝尊享股权投资私募基金分配公告.docx
+[2019-12-16 11:01:29] -> 【基金公告】天蓝尊享股权投资私募基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天蓝尊享股权投资私募基金分配公告.docx
+[2019-12-16 11:01:29] -> 开始翻译【基金公告】天蓝小镇股权投资私募基金关于召开基金份额持有人大会的通知.docx
+[2019-12-16 11:02:32] -> 【基金公告】天蓝小镇股权投资私募基金关于召开基金份额持有人大会的通知.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天蓝小镇股权投资私募基金关于召开基金份额持有人大会的通知.docx
+[2019-12-16 11:02:32] -> 开始翻译【基金公告】天蓝小镇股权投资私募基金分配公告 (2).docx
+[2019-12-16 11:02:50] -> 【基金公告】天蓝小镇股权投资私募基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天蓝小镇股权投资私募基金分配公告 (2).docx
+[2019-12-16 11:02:50] -> 开始翻译【基金公告】天蓝小镇股权投资私募基金分配公告.docx
+[2019-12-16 11:03:09] -> 【基金公告】天蓝小镇股权投资私募基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天蓝小镇股权投资私募基金分配公告.docx
+[2019-12-16 11:03:09] -> 开始翻译【基金公告】宁波天堂硅谷亨畅股权投资合伙企业（有限合伙）基金分配公告 (2).docx
+[2019-12-16 11:03:25] -> 【基金公告】宁波天堂硅谷亨畅股权投资合伙企业（有限合伙）基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷亨畅股权投资合伙企业（有限合伙）基金分配公告 (2).docx
+[2019-12-16 11:03:25] -> 开始翻译【基金公告】宁波天堂硅谷亨畅股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:03:42] -> 【基金公告】宁波天堂硅谷亨畅股权投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷亨畅股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:03:42] -> 开始翻译【基金公告】宁波天堂硅谷元正股权投资合伙企业（有限合伙）成立公告.docx
+[2019-12-16 11:03:58] -> 【基金公告】宁波天堂硅谷元正股权投资合伙企业（有限合伙）成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷元正股权投资合伙企业（有限合伙）成立公告.docx
+[2019-12-16 11:03:58] -> 开始翻译【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:04:24] -> 【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:04:24] -> 开始翻译【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:04:46] -> 【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:04:46] -> 开始翻译【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:05:12] -> 【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:05:12] -> 开始翻译【基金公告】宁波天堂硅谷新风股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:05:26] -> 【基金公告】宁波天堂硅谷新风股权投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷新风股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:05:26] -> 开始翻译【基金公告】宁波天堂硅谷新风股权投资合伙企业（有限合伙）第二次分配公告.docx
+[2019-12-16 11:05:53] -> 【基金公告】宁波天堂硅谷新风股权投资合伙企业（有限合伙）第二次分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷新风股权投资合伙企业（有限合伙）第二次分配公告.docx
+[2019-12-16 11:05:53] -> 开始翻译【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）关于召开合伙人会议的通知.docx
+[2019-12-16 11:06:56] -> 【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）关于召开合伙人会议的通知.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）关于召开合伙人会议的通知.docx
+[2019-12-16 11:06:56] -> 开始翻译【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）基金分配公告  (2).docx
+[2019-12-16 11:07:15] -> 【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）基金分配公告  (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）基金分配公告  (2).docx
+[2019-12-16 11:07:15] -> 开始翻译【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:07:32] -> 【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷蓝色理想股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:07:32] -> 开始翻译【基金公告】杭州天堂硅谷新弈股权投资合伙企业（有限合伙）成立公告.docx
+[2019-12-16 11:07:50] -> 【基金公告】杭州天堂硅谷新弈股权投资合伙企业（有限合伙）成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】杭州天堂硅谷新弈股权投资合伙企业（有限合伙）成立公告.docx
+[2019-12-16 11:07:50] -> 开始翻译【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx
+[2019-12-16 11:08:15] -> 【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx
+[2019-12-16 11:08:15] -> 开始翻译【基金公告】浙江天堂硅谷久晟股权投资合伙企业（有限合伙）基金分配公告 (2).docx
+[2019-12-16 11:08:35] -> 【基金公告】浙江天堂硅谷久晟股权投资合伙企业（有限合伙）基金分配公告 (2).docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷久晟股权投资合伙企业（有限合伙）基金分配公告 (2).docx
+[2019-12-16 11:08:35] -> 开始翻译【基金公告】浙江天堂硅谷久晟股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:08:52] -> 【基金公告】浙江天堂硅谷久晟股权投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷久晟股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:08:52] -> 开始翻译【基金公告】浙江天堂硅谷元得股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:09:09] -> 【基金公告】浙江天堂硅谷元得股权投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷元得股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:09:09] -> 开始翻译【基金公告】浙江天堂硅谷合丰创业投资有限公司第七次分配公告.docx
+[2019-12-16 11:09:33] -> 【基金公告】浙江天堂硅谷合丰创业投资有限公司第七次分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷合丰创业投资有限公司第七次分配公告.docx
+[2019-12-16 11:09:33] -> 开始翻译【基金公告】浙江天堂硅谷合众创业投资有限公司基金分配公告.docx
+[2019-12-16 11:09:53] -> 【基金公告】浙江天堂硅谷合众创业投资有限公司基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷合众创业投资有限公司基金分配公告.docx
+[2019-12-16 11:09:53] -> 开始翻译【基金公告】浙江天堂硅谷合胜创业投资有限公司收益分配公告.docx
+[2019-12-16 11:10:19] -> 【基金公告】浙江天堂硅谷合胜创业投资有限公司收益分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷合胜创业投资有限公司收益分配公告.docx
+[2019-12-16 11:10:19] -> 开始翻译【基金公告】浙江天堂硅谷时顺股权投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:10:47] -> 【基金公告】浙江天堂硅谷时顺股权投资合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷时顺股权投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:10:47] -> 开始翻译【基金公告】浙江天堂硅谷时顺股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:11:09] -> 【基金公告】浙江天堂硅谷时顺股权投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷时顺股权投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:11:09] -> 开始翻译【基金公告】浙江天堂硅谷海天汇缘创业投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:11:35] -> 【基金公告】浙江天堂硅谷海天汇缘创业投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷海天汇缘创业投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:11:35] -> 开始翻译【基金公告】浙江天堂硅谷海天汇缘创业投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:12:02] -> 【基金公告】浙江天堂硅谷海天汇缘创业投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷海天汇缘创业投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:12:02] -> 开始翻译【基金公告】浙江天堂硅谷盈丰股权投资合伙企业（合伙企业）第七次分配公告.docx
+[2019-12-16 11:12:29] -> 【基金公告】浙江天堂硅谷盈丰股权投资合伙企业（合伙企业）第七次分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷盈丰股权投资合伙企业（合伙企业）第七次分配公告.docx
+[2019-12-16 11:12:29] -> 开始翻译【基金公告】浙江天堂硅谷融源股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:12:47] -> 【基金公告】浙江天堂硅谷融源股权投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷融源股权投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:12:47] -> 开始翻译【基金公告】浙江天堂硅谷融源股权投资合伙企业（有限合伙）延期公告.docx
+[2019-12-16 11:13:23] -> 【基金公告】浙江天堂硅谷融源股权投资合伙企业（有限合伙）延期公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷融源股权投资合伙企业（有限合伙）延期公告.docx
+[2019-12-16 11:13:23] -> 开始翻译【基金公告】浙江天堂硅谷贞明股权投资合伙企业（有限合伙）第一次分配.docx
+[2019-12-16 11:13:46] -> 【基金公告】浙江天堂硅谷贞明股权投资合伙企业（有限合伙）第一次分配.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷贞明股权投资合伙企业（有限合伙）第一次分配.docx
+[2019-12-16 11:13:46] -> 开始翻译【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:14:12] -> 【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:14:12] -> 开始翻译【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:14:29] -> 【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:14:29] -> 开始翻译【基金公告】浙江天堂硅谷长泰创业投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:14:41] -> 【基金公告】浙江天堂硅谷长泰创业投资合伙企业（有限合伙）基金分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷长泰创业投资合伙企业（有限合伙）基金分配公告 .docx
+[2019-12-16 11:14:41] -> 开始翻译【基金公告】绍兴市柯桥区天堂硅谷先进制造产业投资合伙企业（有限合伙）基金经理变更公告.docx
+[2019-12-16 11:14:56] -> 【基金公告】绍兴市柯桥区天堂硅谷先进制造产业投资合伙企业（有限合伙）基金经理变更公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】绍兴市柯桥区天堂硅谷先进制造产业投资合伙企业（有限合伙）基金经理变更公告.docx
+[2019-12-16 11:14:56] -> 开始翻译【基金公告】绍兴市柯桥区天堂硅谷智能机器人产业投资合伙企业（有限合伙）基金成立公告.docx
+[2019-12-16 11:15:08] -> 【基金公告】绍兴市柯桥区天堂硅谷智能机器人产业投资合伙企业（有限合伙）基金成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】绍兴市柯桥区天堂硅谷智能机器人产业投资合伙企业（有限合伙）基金成立公告.docx
+[2019-12-16 11:15:08] -> 开始翻译【基金公告】绍兴市柯桥区天堂硅谷碳纤维产业投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:15:28] -> 【基金公告】绍兴市柯桥区天堂硅谷碳纤维产业投资合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】绍兴市柯桥区天堂硅谷碳纤维产业投资合伙企业（有限合伙）基金分配公告.docx
+[2019-12-16 11:15:28] -> 开始翻译【基金公告】绍兴市柯桥区转型升级产业投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:15:49] -> 【基金公告】绍兴市柯桥区转型升级产业投资合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】绍兴市柯桥区转型升级产业投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:15:49] -> 开始翻译【基金公告】绍兴市柯桥区转型升级产业投资合伙企业（有限合伙）收益分配公告.docx
+[2019-12-16 11:16:09] -> 【基金公告】绍兴市柯桥区转型升级产业投资合伙企业（有限合伙）收益分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】绍兴市柯桥区转型升级产业投资合伙企业（有限合伙）收益分配公告.docx
+[2019-12-16 11:16:09] -> 开始翻译【基金公告】绍兴市柯桥区金沙旅游投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:16:29] -> 【基金公告】绍兴市柯桥区金沙旅游投资合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】绍兴市柯桥区金沙旅游投资合伙企业（有限合伙）分配公告.docx
+[2019-12-16 11:16:29] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-16 11:23:30] -> 提取到 34 个文档
+[2019-12-16 11:23:30] -> 开始翻译【媒体聚焦】2019《财富半年报》读懂上半年私募基金数据——《浙江经视》关于天堂硅谷的报道.docx
+[2019-12-16 11:24:12] -> 调用 google_translate 方法出现异常。
+[2019-12-16 11:24:40] -> 【媒体聚焦】2019《财富半年报》读懂上半年私募基金数据——《浙江经视》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】2019《财富半年报》读懂上半年私募基金数据——《浙江经视》关于天堂硅谷的报道.docx
+[2019-12-16 11:24:40] -> 开始翻译【媒体聚焦】A股迈入“科创时代” 长三角资本市场加速互动——浙江在线关于天堂硅谷的报道.docx
+[2019-12-16 11:26:00] -> 【媒体聚焦】A股迈入“科创时代” 长三角资本市场加速互动——浙江在线关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】A股迈入“科创时代” 长三角资本市场加速互动——浙江在线关于天堂硅谷的报道.docx
+[2019-12-16 11:26:00] -> 开始翻译【媒体聚焦】VCPE投资现两大趋势：节奏放缓 阶段前移.docx
+[2019-12-16 11:26:41] -> 【媒体聚焦】VCPE投资现两大趋势：节奏放缓 阶段前移.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】VCPE投资现两大趋势：节奏放缓 阶段前移.docx
+[2019-12-16 11:26:41] -> 开始翻译【媒体聚焦】中国“韭菜”必修课：天上不会掉馅饼——《浙商金融家》关于我司的报道.docx
+[2019-12-16 11:28:15] -> 【媒体聚焦】中国“韭菜”必修课：天上不会掉馅饼——《浙商金融家》关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】中国“韭菜”必修课：天上不会掉馅饼——《浙商金融家》关于我司的报道.docx
+[2019-12-16 11:28:15] -> 开始翻译【媒体聚焦】他们说“做创投要耐住寒冬，比别人多活一天你就赢了！”.docx
+[2019-12-16 11:29:12] -> 【媒体聚焦】他们说“做创投要耐住寒冬，比别人多活一天你就赢了！”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】他们说“做创投要耐住寒冬，比别人多活一天你就赢了！”.docx
+[2019-12-16 11:29:12] -> 开始翻译【媒体聚焦】冲刺科创板名单刷新 浙江4家企业上榜 “含金量”到底如何？.docx
+[2019-12-16 11:29:44] -> 【媒体聚焦】冲刺科创板名单刷新 浙江4家企业上榜 “含金量”到底如何？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】冲刺科创板名单刷新 浙江4家企业上榜 “含金量”到底如何？.docx
+[2019-12-16 11:29:44] -> 开始翻译【媒体聚焦】天堂硅谷何向东：科创板为私募股权投资带来了机遇和挑战——中金在线关于我司的宣传报道.docx
+[2019-12-16 11:30:39] -> 【媒体聚焦】天堂硅谷何向东：科创板为私募股权投资带来了机遇和挑战——中金在线关于我司的宣传报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷何向东：科创板为私募股权投资带来了机遇和挑战——中金在线关于我司的宣传报道.docx
+[2019-12-16 11:30:39] -> 开始翻译【媒体聚焦】天堂硅谷何向东：科创板值得期待 坚定支持实体经济.docx
+[2019-12-16 11:31:24] -> 【媒体聚焦】天堂硅谷何向东：科创板值得期待 坚定支持实体经济.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷何向东：科创板值得期待 坚定支持实体经济.docx
+[2019-12-16 11:31:24] -> 开始翻译【媒体聚焦】天堂硅谷张晟：科创板是中国未来十年最主要的投资机遇——《中国网》关于天堂硅谷的报道.docx
+[2019-12-16 11:31:52] -> 【媒体聚焦】天堂硅谷张晟：科创板是中国未来十年最主要的投资机遇——《中国网》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷张晟：科创板是中国未来十年最主要的投资机遇——《中国网》关于天堂硅谷的报道.docx
+[2019-12-16 11:31:52] -> 开始翻译【媒体聚焦】天堂硅谷张晟：科创板是中国未来十年最主要的投资机遇——《浙江在线》关于天堂硅谷的报道.docx
+[2019-12-16 11:32:16] -> 【媒体聚焦】天堂硅谷张晟：科创板是中国未来十年最主要的投资机遇——《浙江在线》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷张晟：科创板是中国未来十年最主要的投资机遇——《浙江在线》关于天堂硅谷的报道.docx
+[2019-12-16 11:32:16] -> 开始翻译【媒体聚焦】天堂硅谷总裁张晟：单纯套利空间逐渐消失 投资行业竞争会更趋激烈——《金融时报》关于天堂硅谷的报道.docx
+[2019-12-16 11:32:43] -> 【媒体聚焦】天堂硅谷总裁张晟：单纯套利空间逐渐消失 投资行业竞争会更趋激烈——《金融时报》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷总裁张晟：单纯套利空间逐渐消失 投资行业竞争会更趋激烈——《金融时报》关于天堂硅谷的报道.docx
+[2019-12-16 11:32:43] -> 开始翻译【媒体聚焦】天堂硅谷管理合伙人郭丰：硬核的“新经济”企业是未来投资的主要方向.docx
+[2019-12-16 11:33:00] -> 【媒体聚焦】天堂硅谷管理合伙人郭丰：硬核的“新经济”企业是未来投资的主要方向.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷管理合伙人郭丰：硬核的“新经济”企业是未来投资的主要方向.docx
+[2019-12-16 11:33:00] -> 开始翻译【媒体聚焦】天堂硅谷高级合伙人包雪青接受《融资中国》采访.docx
+[2019-12-16 11:37:07] -> 【媒体聚焦】天堂硅谷高级合伙人包雪青接受《融资中国》采访.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷高级合伙人包雪青接受《融资中国》采访.docx
+[2019-12-16 11:37:07] -> 开始翻译【媒体聚焦】天堂硅谷：18年风雨兼程，践行赋能式投资，做负责任的股东.docx
+[2019-12-16 11:39:06] -> 【媒体聚焦】天堂硅谷：18年风雨兼程，践行赋能式投资，做负责任的股东.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷：18年风雨兼程，践行赋能式投资，做负责任的股东.docx
+[2019-12-16 11:39:06] -> 开始翻译【媒体聚焦】天堂硅谷：专业股权投资机构助力环保产业.docx
+[2019-12-16 11:39:59] -> 【媒体聚焦】天堂硅谷：专业股权投资机构助力环保产业.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷：专业股权投资机构助力环保产业.docx
+[2019-12-16 11:39:59] -> 开始翻译【媒体聚焦】天堂硅谷：私募股权投资基金驱动科技创新发展.docx
+[2019-12-16 11:40:40] -> 【媒体聚焦】天堂硅谷：私募股权投资基金驱动科技创新发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】天堂硅谷：私募股权投资基金驱动科技创新发展.docx
+[2019-12-16 11:40:40] -> 开始翻译【媒体聚焦】政府纾困可解短期之围 民企发展还需警惕三只“灰犀牛”——《每日经济新闻》关于我司的宣传报道.docx
+[2019-12-16 11:41:23] -> 【媒体聚焦】政府纾困可解短期之围 民企发展还需警惕三只“灰犀牛”——《每日经济新闻》关于我司的宣传报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】政府纾困可解短期之围 民企发展还需警惕三只“灰犀牛”——《每日经济新闻》关于我司的宣传报道.docx
+[2019-12-16 11:41:23] -> 开始翻译【媒体聚焦】数据中台骤火，或将成孵化出下一代BAT的黄金赛道——《小饭桌》关于天堂硅谷的报道.docx
+[2019-12-16 11:46:14] -> 【媒体聚焦】数据中台骤火，或将成孵化出下一代BAT的黄金赛道——《小饭桌》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】数据中台骤火，或将成孵化出下一代BAT的黄金赛道——《小饭桌》关于天堂硅谷的报道.docx
+[2019-12-16 11:46:14] -> 开始翻译【媒体聚焦】杭州当虹科技科创板过会 你家还在看4K它已奔着8K跑.docx
+[2019-12-16 11:46:54] -> 【媒体聚焦】杭州当虹科技科创板过会 你家还在看4K它已奔着8K跑.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】杭州当虹科技科创板过会 你家还在看4K它已奔着8K跑.docx
+[2019-12-16 11:46:54] -> 开始翻译【媒体聚焦】浙江民间投资增长的背后：精准“撬动” 四两拨千斤——浙江卫视关于我司的报道.docx
+[2019-12-16 11:48:12] -> 【媒体聚焦】浙江民间投资增长的背后：精准“撬动” 四两拨千斤——浙江卫视关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】浙江民间投资增长的背后：精准“撬动” 四两拨千斤——浙江卫视关于我司的报道.docx
+[2019-12-16 11:48:12] -> 开始翻译【媒体聚焦】硅谷天堂总裁鲍钺：期望并购新政点燃新一轮重组浪潮.docx
+[2019-12-16 11:48:26] -> 【媒体聚焦】硅谷天堂总裁鲍钺：期望并购新政点燃新一轮重组浪潮.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】硅谷天堂总裁鲍钺：期望并购新政点燃新一轮重组浪潮.docx
+[2019-12-16 11:48:26] -> 开始翻译【媒体聚焦】硅谷天堂鲍钺：价值投资的第一原则——永远不做“圈外”的事.docx
+[2019-12-16 11:50:25] -> 【媒体聚焦】硅谷天堂鲍钺：价值投资的第一原则——永远不做“圈外”的事.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】硅谷天堂鲍钺：价值投资的第一原则——永远不做“圈外”的事.docx
+[2019-12-16 11:50:25] -> 开始翻译【媒体聚焦】私募基金助力科技企业发展 88家科创板申报企业获股权创投基金投资——中国证券报关于我司的宣传报道.docx
+[2019-12-16 11:50:44] -> 【媒体聚焦】私募基金助力科技企业发展 88家科创板申报企业获股权创投基金投资——中国证券报关于我司的宣传报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】私募基金助力科技企业发展 88家科创板申报企业获股权创投基金投资——中国证券报关于我司的宣传报道.docx
+[2019-12-16 11:50:44] -> 开始翻译【媒体聚焦】私募新格局，赋能新经济——《浙商金融家》关于我司的报道.docx
+[2019-12-16 11:51:24] -> 【媒体聚焦】私募新格局，赋能新经济——《浙商金融家》关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】私募新格局，赋能新经济——《浙商金融家》关于我司的报道.docx
+[2019-12-16 11:51:24] -> 开始翻译【媒体聚焦】私募股权如何赋能实体企业——《浙商》杂志关于天堂硅谷的专访.docx
+[2019-12-16 11:51:30] -> 【媒体聚焦】私募股权如何赋能实体企业——《浙商》杂志关于天堂硅谷的专访.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】私募股权如何赋能实体企业——《浙商》杂志关于天堂硅谷的专访.docx
+[2019-12-16 11:51:30] -> 开始翻译【媒体聚焦】私募股权市场深陷困境 资金青睐头部机构——《中国基金报》关于天堂硅谷的报道.docx
+[2019-12-16 11:52:04] -> 【媒体聚焦】私募股权市场深陷困境 资金青睐头部机构——《中国基金报》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】私募股权市场深陷困境 资金青睐头部机构——《中国基金报》关于天堂硅谷的报道.docx
+[2019-12-16 11:52:04] -> 开始翻译【媒体聚焦】科创板“满月”，谁是最大赢家？——《浙江经视》关于天堂硅谷的报道.docx
+[2019-12-16 11:52:37] -> 【媒体聚焦】科创板“满月”，谁是最大赢家？——《浙江经视》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】科创板“满月”，谁是最大赢家？——《浙江经视》关于天堂硅谷的报道.docx
+[2019-12-16 11:52:37] -> 开始翻译【媒体聚焦】科创板元年，私募基金助力实体经济发展大有可为.docx
+[2019-12-16 11:53:08] -> 【媒体聚焦】科创板元年，私募基金助力实体经济发展大有可为.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】科创板元年，私募基金助力实体经济发展大有可为.docx
+[2019-12-16 11:53:08] -> 开始翻译【媒体聚焦】科创板开板，你该怎样拍板？——《每日经济新闻》关于我司的报道.docx
+[2019-12-16 11:54:15] -> 【媒体聚焦】科创板开板，你该怎样拍板？——《每日经济新闻》关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】科创板开板，你该怎样拍板？——《每日经济新闻》关于我司的报道.docx
+[2019-12-16 11:54:15] -> 开始翻译【媒体聚焦】科创板未解禁 退出及收益难言改善——《中国基金报》关于天堂硅谷的宣传报道.docx
+[2019-12-16 11:54:47] -> 【媒体聚焦】科创板未解禁 退出及收益难言改善——《中国基金报》关于天堂硅谷的宣传报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】科创板未解禁 退出及收益难言改善——《中国基金报》关于天堂硅谷的宣传报道.docx
+[2019-12-16 11:54:47] -> 开始翻译【媒体聚焦】第七届中国创投峰会实录（三）：创投热点篇.docx
+[2019-12-16 11:55:57] -> 【媒体聚焦】第七届中国创投峰会实录（三）：创投热点篇.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】第七届中国创投峰会实录（三）：创投热点篇.docx
+[2019-12-16 11:55:57] -> 开始翻译【媒体聚焦】第三届钱塘江论坛天堂硅谷主场峰会在杭州举行——《浙江电视台》关于天堂硅谷的宣传报道.docx
+[2019-12-16 11:56:08] -> 【媒体聚焦】第三届钱塘江论坛天堂硅谷主场峰会在杭州举行——《浙江电视台》关于天堂硅谷的宣传报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】第三届钱塘江论坛天堂硅谷主场峰会在杭州举行——《浙江电视台》关于天堂硅谷的宣传报道.docx
+[2019-12-16 11:56:08] -> 开始翻译【媒体聚焦】资管出海记——《金融家》关于天堂硅谷的报道.docx
+[2019-12-16 11:57:18] -> 【媒体聚焦】资管出海记——《金融家》关于天堂硅谷的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】资管出海记——《金融家》关于天堂硅谷的报道.docx
+[2019-12-16 11:57:18] -> 开始翻译【媒体聚焦】金融危机十年 我们学到了什么？——《浙商》杂志关于我司的宣传报道.docx
+[2019-12-16 11:58:23] -> 【媒体聚焦】金融危机十年 我们学到了什么？——《浙商》杂志关于我司的宣传报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】金融危机十年 我们学到了什么？——《浙商》杂志关于我司的宣传报道.docx
+[2019-12-16 11:58:23] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-16 12:02:38] -> 提取到 42 个文档
+[2019-12-16 12:02:38] -> 开始翻译【原创研究】10万亿级别政府引导基金，私募GP如何共舞？.docx
+[2019-12-16 12:04:35] -> 【原创研究】10万亿级别政府引导基金，私募GP如何共舞？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】10万亿级别政府引导基金，私募GP如何共舞？.docx
+[2019-12-16 12:04:35] -> 开始翻译【原创研究】A股“黑天鹅”高悬：未来估值靠什么驱动？.docx
+[2019-12-16 12:06:13] -> 【原创研究】A股“黑天鹅”高悬：未来估值靠什么驱动？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】A股“黑天鹅”高悬：未来估值靠什么驱动？.docx
+[2019-12-16 12:06:13] -> 开始翻译【原创研究】A股指数“十年一梦”，症结何在？.docx
+[2019-12-16 12:08:25] -> 【原创研究】A股指数“十年一梦”，症结何在？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】A股指数“十年一梦”，症结何在？.docx
+[2019-12-16 12:08:25] -> 开始翻译【原创研究】A股狂飙行情能走多远？.docx
+[2019-12-16 12:09:59] -> 【原创研究】A股狂飙行情能走多远？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】A股狂飙行情能走多远？.docx
+[2019-12-16 12:09:59] -> 开始翻译【原创研究】“独角兽”狂欢背后.docx
+[2019-12-16 12:12:38] -> 【原创研究】“独角兽”狂欢背后.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】“独角兽”狂欢背后.docx
+[2019-12-16 12:12:38] -> 开始翻译【原创研究】中美贸易战“不惑之年”步向何方？.docx
+[2019-12-16 12:13:33] -> 【原创研究】中美贸易战“不惑之年”步向何方？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】中美贸易战“不惑之年”步向何方？.docx
+[2019-12-16 12:13:33] -> 开始翻译【原创研究】医疗健康产业系列报告之一：大健康产业概述.docx
+[2019-12-16 12:15:59] -> 【原创研究】医疗健康产业系列报告之一：大健康产业概述.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之一：大健康产业概述.docx
+[2019-12-16 12:15:59] -> 开始翻译【原创研究】医疗健康产业系列报告之七：医学影像，进口替代化进行中.docx
+[2019-12-16 12:19:54] -> 【原创研究】医疗健康产业系列报告之七：医学影像，进口替代化进行中.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之七：医学影像，进口替代化进行中.docx
+[2019-12-16 12:19:54] -> 开始翻译【原创研究】医疗健康产业系列报告之三：中美大健康产业比较.docx
+[2019-12-16 12:22:06] -> 【原创研究】医疗健康产业系列报告之三：中美大健康产业比较.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之三：中美大健康产业比较.docx
+[2019-12-16 12:22:06] -> 开始翻译【原创研究】医疗健康产业系列报告之九：中国养老现状下篇——银发经济.docx
+[2019-12-16 12:23:20] -> 【原创研究】医疗健康产业系列报告之九：中国养老现状下篇——银发经济.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之九：中国养老现状下篇——银发经济.docx
+[2019-12-16 12:23:20] -> 开始翻译【原创研究】医疗健康产业系列报告之二：大健康产业驱动因素.docx
+[2019-12-16 12:24:29] -> 【原创研究】医疗健康产业系列报告之二：大健康产业驱动因素.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之二：大健康产业驱动因素.docx
+[2019-12-16 12:24:29] -> 开始翻译【原创研究】医疗健康产业系列报告之五：公立医院改革任重道远.docx
+[2019-12-16 12:26:42] -> 【原创研究】医疗健康产业系列报告之五：公立医院改革任重道远.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之五：公立医院改革任重道远.docx
+[2019-12-16 12:26:42] -> 开始翻译【原创研究】医疗健康产业系列报告之八：中国养老现状上篇.docx
+[2019-12-16 12:29:26] -> 【原创研究】医疗健康产业系列报告之八：中国养老现状上篇.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之八：中国养老现状上篇.docx
+[2019-12-16 12:29:26] -> 开始翻译【原创研究】医疗健康产业系列报告之六：体外诊断，千亿蓝海市场.docx
+[2019-12-16 12:33:25] -> 【原创研究】医疗健康产业系列报告之六：体外诊断，千亿蓝海市场.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之六：体外诊断，千亿蓝海市场.docx
+[2019-12-16 12:33:25] -> 开始翻译【原创研究】医疗健康产业系列报告之四：行业投融资概况及趋势.docx
+[2019-12-16 12:36:32] -> 【原创研究】医疗健康产业系列报告之四：行业投融资概况及趋势.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之四：行业投融资概况及趋势.docx
+[2019-12-16 12:36:32] -> 开始翻译【原创研究】医疗健康产业系列报告之终篇：中国大健康产业展望.docx
+[2019-12-16 12:38:13] -> 【原创研究】医疗健康产业系列报告之终篇：中国大健康产业展望.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之终篇：中国大健康产业展望.docx
+[2019-12-16 12:38:13] -> 开始翻译【原创研究】变局之年砥砺前行——近期私募资管相关政策总结.docx
+[2019-12-16 12:40:36] -> 【原创研究】变局之年砥砺前行——近期私募资管相关政策总结.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】变局之年砥砺前行——近期私募资管相关政策总结.docx
+[2019-12-16 12:40:36] -> 开始翻译【原创研究】巴菲特唯一推崇的私募基金：3G资本是怎样炼成的？.docx
+[2019-12-16 12:43:27] -> 【原创研究】巴菲特唯一推崇的私募基金：3G资本是怎样炼成的？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】巴菲特唯一推崇的私募基金：3G资本是怎样炼成的？.docx
+[2019-12-16 12:43:27] -> 开始翻译【原创研究】我国锂电池、充电桩“整合在路上”？.docx
+[2019-12-16 12:46:18] -> 【原创研究】我国锂电池、充电桩“整合在路上”？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】我国锂电池、充电桩“整合在路上”？.docx
+[2019-12-16 12:46:18] -> 开始翻译【原创研究】政策风口下的K12课外培训市场.docx
+[2019-12-16 12:49:15] -> 【原创研究】政策风口下的K12课外培训市场.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】政策风口下的K12课外培训市场.docx
+[2019-12-16 12:49:15] -> 开始翻译【原创研究】新材料行业投资价值与难点.docx
+[2019-12-16 12:52:06] -> 【原创研究】新材料行业投资价值与难点.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】新材料行业投资价值与难点.docx
+[2019-12-16 12:52:06] -> 开始翻译【原创研究】新能源汽车换电模式回顾与展望.docx
+[2019-12-16 12:54:38] -> 【原创研究】新能源汽车换电模式回顾与展望.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】新能源汽车换电模式回顾与展望.docx
+[2019-12-16 12:54:38] -> 开始翻译【原创研究】无人驾驶离我们还有多远？.docx
+[2019-12-16 12:58:00] -> 【原创研究】无人驾驶离我们还有多远？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】无人驾驶离我们还有多远？.docx
+[2019-12-16 12:58:00] -> 开始翻译【原创研究】日本：“衰落”表象下的渐进创新和产业升级.docx
+[2019-12-16 12:59:29] -> 【原创研究】日本：“衰落”表象下的渐进创新和产业升级.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】日本：“衰落”表象下的渐进创新和产业升级.docx
+[2019-12-16 12:59:29] -> 开始翻译【原创研究】日本：“衰落”表象下的渐进创新和产业升级（下）.docx
+[2019-12-16 13:01:37] -> 【原创研究】日本：“衰落”表象下的渐进创新和产业升级（下）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】日本：“衰落”表象下的渐进创新和产业升级（下）.docx
+[2019-12-16 13:01:37] -> 开始翻译【原创研究】比特币泡沫的破裂.docx
+[2019-12-16 13:03:11] -> 【原创研究】比特币泡沫的破裂.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】比特币泡沫的破裂.docx
+[2019-12-16 13:03:11] -> 开始翻译【原创研究】浮沉之间，区块链的未来在哪里？（下篇）.docx
+[2019-12-16 13:05:00] -> 【原创研究】浮沉之间，区块链的未来在哪里？（下篇）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】浮沉之间，区块链的未来在哪里？（下篇）.docx
+[2019-12-16 13:05:00] -> 开始翻译【原创研究】清洁能源——窥视“煤改电”发展.docx
+[2019-12-16 13:08:36] -> 【原创研究】清洁能源——窥视“煤改电”发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】清洁能源——窥视“煤改电”发展.docx
+[2019-12-16 13:08:36] -> 开始翻译【原创研究】直觉在左、情绪在右，如何优雅驾驭A股这头“灰犀牛”？.docx
+[2019-12-16 13:10:41] -> 【原创研究】直觉在左、情绪在右，如何优雅驾驭A股这头“灰犀牛”？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】直觉在左、情绪在右，如何优雅驾驭A股这头“灰犀牛”？.docx
+[2019-12-16 13:10:41] -> 开始翻译【原创研究】短视频风潮将往何方？.docx
+[2019-12-16 13:13:26] -> 【原创研究】短视频风潮将往何方？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】短视频风潮将往何方？.docx
+[2019-12-16 13:13:26] -> 开始翻译【原创研究】科创板细则落地 构建市场新逻辑.docx
+[2019-12-16 13:14:58] -> 【原创研究】科创板细则落地 构建市场新逻辑.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】科创板细则落地 构建市场新逻辑.docx
+[2019-12-16 13:14:58] -> 开始翻译【原创研究】稳中求变 中国经济开启下半场——2019年宏观展望.docx
+[2019-12-16 13:16:56] -> 【原创研究】稳中求变 中国经济开启下半场——2019年宏观展望.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】稳中求变 中国经济开启下半场——2019年宏观展望.docx
+[2019-12-16 13:16:56] -> 开始翻译【原创研究】简析O药沉浮对创新药投资的启示.docx
+[2019-12-16 13:19:37] -> 【原创研究】简析O药沉浮对创新药投资的启示.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】简析O药沉浮对创新药投资的启示.docx
+[2019-12-16 13:19:37] -> 开始翻译【原创研究】简析“科创板+注册制”.docx
+[2019-12-16 13:21:23] -> 【原创研究】简析“科创板+注册制”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】简析“科创板+注册制”.docx
+[2019-12-16 13:21:23] -> 开始翻译【原创研究】苏立峰：A股漠视“长期主义”之殇与生态投资.docx
+[2019-12-16 13:23:11] -> 【原创研究】苏立峰：A股漠视“长期主义”之殇与生态投资.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】苏立峰：A股漠视“长期主义”之殇与生态投资.docx
+[2019-12-16 13:23:11] -> 开始翻译【原创研究】转垃圾焚烧“邻避问题”为“邻里善待”.docx
+[2019-12-16 13:25:53] -> 【原创研究】转垃圾焚烧“邻避问题”为“邻里善待”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】转垃圾焚烧“邻避问题”为“邻里善待”.docx
+[2019-12-16 13:25:53] -> 开始翻译【原创研究】逆向思考模型（一）少即是多：这个思考模型让你我轻松过一生.docx
+[2019-12-16 13:26:55] -> 【原创研究】逆向思考模型（一）少即是多：这个思考模型让你我轻松过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（一）少即是多：这个思考模型让你我轻松过一生.docx
+[2019-12-16 13:26:55] -> 开始翻译【原创研究】逆向思考模型（七）可复制的领导力：用这个思考模型让你我高效过一生.docx
+[2019-12-16 13:28:40] -> 【原创研究】逆向思考模型（七）可复制的领导力：用这个思考模型让你我高效过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（七）可复制的领导力：用这个思考模型让你我高效过一生.docx
+[2019-12-16 13:28:40] -> 开始翻译【原创研究】逆向思考模型（三）脱离舒适区：这个思考模型让你我带劲过一生.docx
+[2019-12-16 13:30:00] -> 【原创研究】逆向思考模型（三）脱离舒适区：这个思考模型让你我带劲过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（三）脱离舒适区：这个思考模型让你我带劲过一生.docx
+[2019-12-16 13:30:00] -> 开始翻译【原创研究】逆向思考模型（五）知行合一：这个模型让你我光明过一生.docx
+[2019-12-16 13:31:42] -> 【原创研究】逆向思考模型（五）知行合一：这个模型让你我光明过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（五）知行合一：这个模型让你我光明过一生.docx
+[2019-12-16 13:31:42] -> 开始翻译【原创研究】逆向思考模型（六）同理心：这个模型让你我共赢过一生.docx
+[2019-12-16 13:33:02] -> 【原创研究】逆向思考模型（六）同理心：这个模型让你我共赢过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（六）同理心：这个模型让你我共赢过一生.docx
+[2019-12-16 13:33:02] -> 开始翻译【原创研究】逆向思考模型（四）反脆弱：这个模型让你我小强过一生.docx
+[2019-12-16 13:34:02] -> 【原创研究】逆向思考模型（四）反脆弱：这个模型让你我小强过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（四）反脆弱：这个模型让你我小强过一生.docx
+[2019-12-16 13:34:02] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-31 09:49:28] -> 提取到 4 个文档
+[2019-12-31 09:49:28] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 09:49:35] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 09:49:35] -> 开始翻译【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx
+[2019-12-31 09:49:41] -> 【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx
+[2019-12-31 09:49:41] -> 开始翻译【动态新闻】科创板时代，私募基金助力硬科技发展.docx
+[2019-12-31 09:50:01] -> 【动态新闻】科创板时代，私募基金助力硬科技发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】科创板时代，私募基金助力硬科技发展.docx
+[2019-12-31 09:50:01] -> 开始翻译【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx
+[2019-12-31 09:50:07] -> 【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx
+[2019-12-31 09:50:07] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-31 10:06:44] -> 提取到 4 个文档
+[2019-12-31 10:06:44] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 10:09:08] -> 提取到 4 个文档
+[2019-12-31 10:09:08] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 10:12:42] -> 提取到 4 个文档
+[2019-12-31 10:12:42] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 10:12:47] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docxThu Aug 15 13:51:55 2019
+[2019-12-31 10:12:47] -> 开始翻译【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx
+[2019-12-31 10:12:54] -> 【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docxFri Jun 14 18:36:05 2019
+[2019-12-31 10:12:54] -> 开始翻译【动态新闻】科创板时代，私募基金助力硬科技发展.docx
+[2019-12-31 10:13:07] -> 【动态新闻】科创板时代，私募基金助力硬科技发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】科创板时代，私募基金助力硬科技发展.docxMon May 27 10:16:46 2019
+[2019-12-31 10:13:07] -> 开始翻译【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx
+[2019-12-31 10:13:11] -> 【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docxMon Jul 22 20:26:28 2019
+[2019-12-31 10:13:11] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-31 10:27:38] -> 提取到 4 个文档
+[2019-12-31 10:27:38] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 10:27:43] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师1.docx
+[2019-12-31 10:27:43] -> 开始翻译【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx
+[2019-12-31 10:27:46] -> 【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】李克强莅临2019全国双创周杭州主会场，天堂硅谷参与多项活动1.docx
+[2019-12-31 10:27:46] -> 开始翻译【动态新闻】科创板时代，私募基金助力硬科技发展.docx
+[2019-12-31 10:27:56] -> 【动态新闻】科创板时代，私募基金助力硬科技发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】科创板时代，私募基金助力硬科技发展1.docx
+[2019-12-31 10:27:56] -> 开始翻译【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx
+[2019-12-31 10:28:00] -> 【动态新闻】科创板首批企业上市，天堂硅谷硕果累累1.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】科创板首批企业上市，天堂硅谷硕果累累11.docx
+[2019-12-31 10:28:00] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2019-12-31 10:30:25] -> 提取到 29 个文档
+[2019-12-31 10:30:25] -> 开始翻译【动态新闻】专业精进，蓄势待发天堂硅谷2019半年度经营形势分析会暨第五届读书会圆满落幕.docx
+[2019-12-31 10:30:34] -> 【动态新闻】专业精进，蓄势待发天堂硅谷2019半年度经营形势分析会暨第五届读书会圆满落幕.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】专业精进，蓄势待发天堂硅谷2019半年度经营形势分析会暨第五届读书会圆满落幕.docx
+[2019-12-31 10:30:34] -> 开始翻译【动态新闻】专业领航，战略携手——天堂硅谷与安元基金签署战略合作协议.docx
+[2019-12-31 10:30:39] -> 【动态新闻】专业领航，战略携手——天堂硅谷与安元基金签署战略合作协议.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】专业领航，战略携手——天堂硅谷与安元基金签署战略合作协议.docx
+[2019-12-31 10:30:39] -> 开始翻译【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 10:30:43] -> 【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】倾囊相授 赋能发展，天堂硅谷冯新担任创合汇创业导师.docx
+[2019-12-31 10:30:43] -> 开始翻译【动态新闻】天堂硅谷与武汉新能源汽车工业技术研究院、高德红外集团签署业务合作框架协议.docx
+[2019-12-31 10:30:49] -> 【动态新闻】天堂硅谷与武汉新能源汽车工业技术研究院、高德红外集团签署业务合作框架协议.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷与武汉新能源汽车工业技术研究院、高德红外集团签署业务合作框架协议.docx
+[2019-12-31 10:30:49] -> 开始翻译【动态新闻】天堂硅谷与盐城经济开发区政府、上海联都信息签订战略合作协议.doc
+[2019-12-31 10:37:33] -> 提取到 42 个文档
+[2019-12-31 10:37:33] -> 开始翻译【原创研究】10万亿级别政府引导基金，私募GP如何共舞？.docx
+[2019-12-31 10:38:17] -> 【原创研究】10万亿级别政府引导基金，私募GP如何共舞？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】10万亿级别政府引导基金，私募GP如何共舞？.docx
+[2019-12-31 10:38:17] -> 开始翻译【原创研究】A股“黑天鹅”高悬：未来估值靠什么驱动？.docx
+[2019-12-31 10:38:52] -> 【原创研究】A股“黑天鹅”高悬：未来估值靠什么驱动？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】A股“黑天鹅”高悬：未来估值靠什么驱动？.docx
+[2019-12-31 10:38:52] -> 开始翻译【原创研究】A股指数“十年一梦”，症结何在？.docx
+[2019-12-31 10:39:40] -> 【原创研究】A股指数“十年一梦”，症结何在？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】A股指数“十年一梦”，症结何在？.docx
+[2019-12-31 10:39:40] -> 开始翻译【原创研究】A股狂飙行情能走多远？.docx
+[2019-12-31 10:40:11] -> 【原创研究】A股狂飙行情能走多远？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】A股狂飙行情能走多远？.docx
+[2019-12-31 10:40:11] -> 开始翻译【原创研究】“独角兽”狂欢背后.docx
+[2019-12-31 10:41:16] -> 【原创研究】“独角兽”狂欢背后.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】“独角兽”狂欢背后.docx
+[2019-12-31 10:41:16] -> 开始翻译【原创研究】中美贸易战“不惑之年”步向何方？.docx
+[2019-12-31 10:41:36] -> 【原创研究】中美贸易战“不惑之年”步向何方？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】中美贸易战“不惑之年”步向何方？.docx
+[2019-12-31 10:41:36] -> 开始翻译【原创研究】医疗健康产业系列报告之一：大健康产业概述.docx
+[2019-12-31 10:42:27] -> 【原创研究】医疗健康产业系列报告之一：大健康产业概述.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之一：大健康产业概述.docx
+[2019-12-31 10:42:27] -> 开始翻译【原创研究】医疗健康产业系列报告之七：医学影像，进口替代化进行中.docx
+[2019-12-31 10:43:49] -> 【原创研究】医疗健康产业系列报告之七：医学影像，进口替代化进行中.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之七：医学影像，进口替代化进行中.docx
+[2019-12-31 10:43:49] -> 开始翻译【原创研究】医疗健康产业系列报告之三：中美大健康产业比较.docx
+[2019-12-31 10:44:18] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:44:41] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:45:03] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:47:30] -> 【原创研究】医疗健康产业系列报告之三：中美大健康产业比较.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之三：中美大健康产业比较.docx
+[2019-12-31 10:47:30] -> 开始翻译【原创研究】医疗健康产业系列报告之九：中国养老现状下篇——银发经济.docx
+[2019-12-31 10:48:03] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:48:59] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:49:44] -> 【原创研究】医疗健康产业系列报告之九：中国养老现状下篇——银发经济.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之九：中国养老现状下篇——银发经济.docx
+[2019-12-31 10:49:44] -> 开始翻译【原创研究】医疗健康产业系列报告之二：大健康产业驱动因素.docx
+[2019-12-31 10:50:59] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:51:36] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:51:46] -> 【原创研究】医疗健康产业系列报告之二：大健康产业驱动因素.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之二：大健康产业驱动因素.docx
+[2019-12-31 10:51:46] -> 开始翻译【原创研究】医疗健康产业系列报告之五：公立医院改革任重道远.docx
+[2019-12-31 10:53:21] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:53:46] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:53:55] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:54:03] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:54:10] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:54:16] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:54:23] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:54:29] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:54:38] -> 调用 google_translate 方法出现异常。
+[2019-12-31 10:59:53] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:00:00] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:00:10] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:00:17] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:00:23] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:00:28] -> 【原创研究】医疗健康产业系列报告之五：公立医院改革任重道远.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之五：公立医院改革任重道远.docx
+[2019-12-31 11:00:28] -> 开始翻译【原创研究】医疗健康产业系列报告之八：中国养老现状上篇.docx
+[2019-12-31 11:00:45] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:00:51] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:02] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:10] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:17] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:27] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:33] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:39] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:01:50] -> 调用 google_translate 方法出现异常。
+[2019-12-31 11:04:13] -> 【原创研究】医疗健康产业系列报告之八：中国养老现状上篇.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之八：中国养老现状上篇.docx
+[2019-12-31 11:04:13] -> 开始翻译【原创研究】医疗健康产业系列报告之六：体外诊断，千亿蓝海市场.docx
+[2019-12-31 11:07:59] -> 【原创研究】医疗健康产业系列报告之六：体外诊断，千亿蓝海市场.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之六：体外诊断，千亿蓝海市场.docx
+[2019-12-31 11:07:59] -> 开始翻译【原创研究】医疗健康产业系列报告之四：行业投融资概况及趋势.docx
+[2019-12-31 11:10:56] -> 【原创研究】医疗健康产业系列报告之四：行业投融资概况及趋势.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之四：行业投融资概况及趋势.docx
+[2019-12-31 11:10:56] -> 开始翻译【原创研究】医疗健康产业系列报告之终篇：中国大健康产业展望.docx
+[2019-12-31 11:12:31] -> 【原创研究】医疗健康产业系列报告之终篇：中国大健康产业展望.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】医疗健康产业系列报告之终篇：中国大健康产业展望.docx
+[2019-12-31 11:12:31] -> 开始翻译【原创研究】变局之年砥砺前行——近期私募资管相关政策总结.docx
+[2019-12-31 11:14:48] -> 【原创研究】变局之年砥砺前行——近期私募资管相关政策总结.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】变局之年砥砺前行——近期私募资管相关政策总结.docx
+[2019-12-31 11:14:48] -> 开始翻译【原创研究】巴菲特唯一推崇的私募基金：3G资本是怎样炼成的？.docx
+[2019-12-31 11:17:19] -> 【原创研究】巴菲特唯一推崇的私募基金：3G资本是怎样炼成的？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】巴菲特唯一推崇的私募基金：3G资本是怎样炼成的？.docx
+[2019-12-31 11:17:19] -> 开始翻译【原创研究】我国锂电池、充电桩“整合在路上”？.docx
+[2019-12-31 11:19:49] -> 【原创研究】我国锂电池、充电桩“整合在路上”？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】我国锂电池、充电桩“整合在路上”？.docx
+[2019-12-31 11:19:49] -> 开始翻译【原创研究】政策风口下的K12课外培训市场.docx
+[2019-12-31 11:22:36] -> 【原创研究】政策风口下的K12课外培训市场.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】政策风口下的K12课外培训市场.docx
+[2019-12-31 11:22:36] -> 开始翻译【原创研究】新材料行业投资价值与难点.docx
+[2019-12-31 11:25:14] -> 【原创研究】新材料行业投资价值与难点.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】新材料行业投资价值与难点.docx
+[2019-12-31 11:25:14] -> 开始翻译【原创研究】新能源汽车换电模式回顾与展望.docx
+[2019-12-31 11:27:32] -> 【原创研究】新能源汽车换电模式回顾与展望.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】新能源汽车换电模式回顾与展望.docx
+[2019-12-31 11:27:32] -> 开始翻译【原创研究】无人驾驶离我们还有多远？.docx
+[2019-12-31 11:30:41] -> 【原创研究】无人驾驶离我们还有多远？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】无人驾驶离我们还有多远？.docx
+[2019-12-31 11:30:41] -> 开始翻译【原创研究】日本：“衰落”表象下的渐进创新和产业升级.docx
+[2019-12-31 11:31:59] -> 【原创研究】日本：“衰落”表象下的渐进创新和产业升级.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】日本：“衰落”表象下的渐进创新和产业升级.docx
+[2019-12-31 11:31:59] -> 开始翻译【原创研究】日本：“衰落”表象下的渐进创新和产业升级（下）.docx
+[2019-12-31 11:33:54] -> 【原创研究】日本：“衰落”表象下的渐进创新和产业升级（下）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】日本：“衰落”表象下的渐进创新和产业升级（下）.docx
+[2019-12-31 11:33:54] -> 开始翻译【原创研究】比特币泡沫的破裂.docx
+[2019-12-31 11:35:18] -> 【原创研究】比特币泡沫的破裂.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】比特币泡沫的破裂.docx
+[2019-12-31 11:35:18] -> 开始翻译【原创研究】浮沉之间，区块链的未来在哪里？（下篇）.docx
+[2019-12-31 11:36:54] -> 【原创研究】浮沉之间，区块链的未来在哪里？（下篇）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】浮沉之间，区块链的未来在哪里？（下篇）.docx
+[2019-12-31 11:36:54] -> 开始翻译【原创研究】清洁能源——窥视“煤改电”发展.docx
+[2019-12-31 11:40:03] -> 【原创研究】清洁能源——窥视“煤改电”发展.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】清洁能源——窥视“煤改电”发展.docx
+[2019-12-31 11:40:03] -> 开始翻译【原创研究】直觉在左、情绪在右，如何优雅驾驭A股这头“灰犀牛”？.docx
+[2019-12-31 11:41:46] -> 【原创研究】直觉在左、情绪在右，如何优雅驾驭A股这头“灰犀牛”？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】直觉在左、情绪在右，如何优雅驾驭A股这头“灰犀牛”？.docx
+[2019-12-31 11:41:46] -> 开始翻译【原创研究】短视频风潮将往何方？.docx
+[2019-12-31 11:44:10] -> 【原创研究】短视频风潮将往何方？.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】短视频风潮将往何方？.docx
+[2019-12-31 11:44:10] -> 开始翻译【原创研究】科创板细则落地 构建市场新逻辑.docx
+[2019-12-31 11:45:38] -> 【原创研究】科创板细则落地 构建市场新逻辑.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】科创板细则落地 构建市场新逻辑.docx
+[2019-12-31 11:45:38] -> 开始翻译【原创研究】稳中求变 中国经济开启下半场——2019年宏观展望.docx
+[2019-12-31 11:47:30] -> 【原创研究】稳中求变 中国经济开启下半场——2019年宏观展望.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】稳中求变 中国经济开启下半场——2019年宏观展望.docx
+[2019-12-31 11:47:30] -> 开始翻译【原创研究】简析O药沉浮对创新药投资的启示.docx
+[2019-12-31 11:49:57] -> 【原创研究】简析O药沉浮对创新药投资的启示.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】简析O药沉浮对创新药投资的启示.docx
+[2019-12-31 11:49:57] -> 开始翻译【原创研究】简析“科创板+注册制”.docx
+[2019-12-31 11:51:39] -> 【原创研究】简析“科创板+注册制”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】简析“科创板+注册制”.docx
+[2019-12-31 11:51:39] -> 开始翻译【原创研究】苏立峰：A股漠视“长期主义”之殇与生态投资.docx
+[2019-12-31 11:53:21] -> 【原创研究】苏立峰：A股漠视“长期主义”之殇与生态投资.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】苏立峰：A股漠视“长期主义”之殇与生态投资.docx
+[2019-12-31 11:53:21] -> 开始翻译【原创研究】转垃圾焚烧“邻避问题”为“邻里善待”.docx
+[2019-12-31 11:55:48] -> 【原创研究】转垃圾焚烧“邻避问题”为“邻里善待”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】转垃圾焚烧“邻避问题”为“邻里善待”.docx
+[2019-12-31 11:55:48] -> 开始翻译【原创研究】逆向思考模型（一）少即是多：这个思考模型让你我轻松过一生.docx
+[2019-12-31 11:56:48] -> 【原创研究】逆向思考模型（一）少即是多：这个思考模型让你我轻松过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（一）少即是多：这个思考模型让你我轻松过一生.docx
+[2019-12-31 11:56:48] -> 开始翻译【原创研究】逆向思考模型（七）可复制的领导力：用这个思考模型让你我高效过一生.docx
+[2019-12-31 11:58:24] -> 【原创研究】逆向思考模型（七）可复制的领导力：用这个思考模型让你我高效过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（七）可复制的领导力：用这个思考模型让你我高效过一生.docx
+[2019-12-31 11:58:24] -> 开始翻译【原创研究】逆向思考模型（三）脱离舒适区：这个思考模型让你我带劲过一生.docx
+[2019-12-31 11:59:41] -> 【原创研究】逆向思考模型（三）脱离舒适区：这个思考模型让你我带劲过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（三）脱离舒适区：这个思考模型让你我带劲过一生.docx
+[2019-12-31 11:59:41] -> 开始翻译【原创研究】逆向思考模型（五）知行合一：这个模型让你我光明过一生.docx
+[2019-12-31 12:01:14] -> 【原创研究】逆向思考模型（五）知行合一：这个模型让你我光明过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（五）知行合一：这个模型让你我光明过一生.docx
+[2019-12-31 12:01:14] -> 开始翻译【原创研究】逆向思考模型（六）同理心：这个模型让你我共赢过一生.docx
+[2019-12-31 12:02:26] -> 【原创研究】逆向思考模型（六）同理心：这个模型让你我共赢过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（六）同理心：这个模型让你我共赢过一生.docx
+[2019-12-31 12:02:26] -> 开始翻译【原创研究】逆向思考模型（四）反脆弱：这个模型让你我小强过一生.docx
+[2019-12-31 12:03:19] -> 【原创研究】逆向思考模型（四）反脆弱：这个模型让你我小强过一生.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】逆向思考模型（四）反脆弱：这个模型让你我小强过一生.docx
+[2019-12-31 12:03:19] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-02-13 14:54:46] -> 提取到 31 个文档
+[2020-02-13 14:54:46] -> 开始翻译【动态新闻】同心聚力、赋能未来——天堂硅谷2019年度工作总结大会暨2020新春联欢会圆满举行.docx
+[2020-02-13 14:55:02] -> 【动态新闻】同心聚力、赋能未来——天堂硅谷2019年度工作总结大会暨2020新春联欢会圆满举行.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】同心聚力、赋能未来——天堂硅谷2019年度工作总结大会暨2020新春联欢会圆满举行.docx
+[2020-02-13 14:55:02] -> 开始翻译【动态新闻】天堂硅谷投资的奥普家居今日成功登陆上交所.docx
+[2020-02-13 14:55:07] -> 【动态新闻】天堂硅谷投资的奥普家居今日成功登陆上交所.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷投资的奥普家居今日成功登陆上交所.docx
+[2020-02-13 14:55:07] -> 开始翻译【动态新闻】天堂硅谷旗下欣龙控股开足马力保生产，全力支援抗击新型冠状病毒肺炎疫情.docx
+[2020-02-13 14:55:14] -> 【动态新闻】天堂硅谷旗下欣龙控股开足马力保生产，全力支援抗击新型冠状病毒肺炎疫情.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷旗下欣龙控股开足马力保生产，全力支援抗击新型冠状病毒肺炎疫情.docx
+[2020-02-13 14:55:14] -> 开始翻译【动态新闻】天堂硅谷荣膺融资中国2019年度中国最佳私募股权投资机构TOP50.docx
+[2020-02-13 14:55:16] -> 【动态新闻】天堂硅谷荣膺融资中国2019年度中国最佳私募股权投资机构TOP50.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷荣膺融资中国2019年度中国最佳私募股权投资机构TOP50.docx
+[2020-02-13 14:55:16] -> 开始翻译【动态新闻】天堂硅谷董事长何向东荣膺第六届“品质杭商”20强.docx
+[2020-02-13 14:55:19] -> 【动态新闻】天堂硅谷董事长何向东荣膺第六届“品质杭商”20强.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷董事长何向东荣膺第六届“品质杭商”20强.docx
+[2020-02-13 14:55:19] -> 开始翻译【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理.docx
+[2020-02-13 14:55:49] -> 【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理.docx
+[2020-02-13 14:55:49] -> 开始翻译【合作伙伴】云创大数据荣膺华为江苏“最佳产业合作奖”.docx
+[2020-02-13 14:55:56] -> 【合作伙伴】云创大数据荣膺华为江苏“最佳产业合作奖”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据荣膺华为江苏“最佳产业合作奖”.docx
+[2020-02-13 14:55:56] -> 开始翻译【合作伙伴】创业慧康搭建应急救援系统，助力同济大学附属东方医院的国家紧急医学救援队出征武汉！.docx
+[2020-02-13 14:56:05] -> 【合作伙伴】创业慧康搭建应急救援系统，助力同济大学附属东方医院的国家紧急医学救援队出征武汉！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】创业慧康搭建应急救援系统，助力同济大学附属东方医院的国家紧急医学救援队出征武汉！.docx
+[2020-02-13 14:56:05] -> 开始翻译【合作伙伴】如何跑赢新冠病毒？中奥科技的选择是“大数据”.docx
+[2020-02-13 14:56:22] -> 【合作伙伴】如何跑赢新冠病毒？中奥科技的选择是“大数据”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】如何跑赢新冠病毒？中奥科技的选择是“大数据”.docx
+[2020-02-13 14:56:22] -> 开始翻译【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车.docx
+[2020-02-13 14:56:45] -> 【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车.docx
+[2020-02-13 14:56:45] -> 开始翻译【合作伙伴】小i机器人入选首批上海市技术创新中心企业.docx
+[2020-02-13 14:56:51] -> 【合作伙伴】小i机器人入选首批上海市技术创新中心企业.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】小i机器人入选首批上海市技术创新中心企业.docx
+[2020-02-13 14:56:51] -> 开始翻译【合作伙伴】微盟首批加入腾讯“SaaS技术联盟”，共建技术中台.docx
+[2020-02-13 14:57:01] -> 【合作伙伴】微盟首批加入腾讯“SaaS技术联盟”，共建技术中台.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟首批加入腾讯“SaaS技术联盟”，共建技术中台.docx
+[2020-02-13 14:57:01] -> 开始翻译【合作伙伴】索贝疫情期间免费视频剪辑产品及服务申请相关政策问题解答.docx
+[2020-02-13 14:57:31] -> 【合作伙伴】索贝疫情期间免费视频剪辑产品及服务申请相关政策问题解答.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】索贝疫情期间免费视频剪辑产品及服务申请相关政策问题解答.docx
+[2020-02-13 14:57:31] -> 开始翻译【合作伙伴】远传技术携手腾讯云推出智能防控平台 为疫情防控排查筑起“安全防线”.docx
+[2020-02-13 14:57:45] -> 【合作伙伴】远传技术携手腾讯云推出智能防控平台 为疫情防控排查筑起“安全防线”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术携手腾讯云推出智能防控平台 为疫情防控排查筑起“安全防线”.docx
+[2020-02-13 14:57:45] -> 开始翻译【合作伙伴】防疫攻坚 数战数决，索贝数码免费向政府部门提供疫情防控信息填报工具集.docx
+[2020-02-13 14:57:49] -> 【合作伙伴】防疫攻坚 数战数决，索贝数码免费向政府部门提供疫情防控信息填报工具集.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】防疫攻坚 数战数决，索贝数码免费向政府部门提供疫情防控信息填报工具集.docx
+[2020-02-13 14:57:49] -> 开始翻译【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx
+[2020-02-13 14:57:57] -> 【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx
+[2020-02-13 14:57:57] -> 开始翻译【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx
+[2020-02-13 14:58:03] -> 【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx
+[2020-02-13 14:58:03] -> 开始翻译【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx
+[2020-02-13 14:58:14] -> 【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx
+[2020-02-13 14:58:14] -> 开始翻译【基金公告】天堂硅谷-贤辅1号资产管理计划清算公告.docx
+[2020-02-13 14:58:28] -> 【基金公告】天堂硅谷-贤辅1号资产管理计划清算公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-贤辅1号资产管理计划清算公告.docx
+[2020-02-13 14:58:28] -> 开始翻译【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-02-13 14:58:37] -> 【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-02-13 14:58:37] -> 开始翻译【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-02-13 14:58:44] -> 【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-02-13 14:58:44] -> 开始翻译【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-02-13 14:58:51] -> 【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-02-13 14:58:51] -> 开始翻译【基金公告】天堂硅谷地产并购6号私募投资基金关于召开2020年第一次基金份额持有人大会的通知.docx
+[2020-02-13 14:59:13] -> 【基金公告】天堂硅谷地产并购6号私募投资基金关于召开2020年第一次基金份额持有人大会的通知.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购6号私募投资基金关于召开2020年第一次基金份额持有人大会的通知.docx
+[2020-02-13 14:59:13] -> 开始翻译【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告 .docx
+[2020-02-13 14:59:22] -> 【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告 .docx
+[2020-02-13 14:59:22] -> 开始翻译【基金公告】开化硅谷天堂鲲诚股权投资基金合伙企业（有限合伙）成立公告.docx
+[2020-02-13 14:59:27] -> 【基金公告】开化硅谷天堂鲲诚股权投资基金合伙企业（有限合伙）成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】开化硅谷天堂鲲诚股权投资基金合伙企业（有限合伙）成立公告.docx
+[2020-02-13 14:59:27] -> 开始翻译【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）清算公告.docx
+[2020-02-13 14:59:34] -> 【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）清算公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）清算公告.docx
+[2020-02-13 14:59:34] -> 开始翻译【媒体聚焦】西子天堂有一座“硅谷”——《浙里精彩》丛书关于我司的报道.docx
+[2020-02-13 15:00:08] -> 【媒体聚焦】西子天堂有一座“硅谷”——《浙里精彩》丛书关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】西子天堂有一座“硅谷”——《浙里精彩》丛书关于我司的报道.docx
+[2020-02-13 15:00:08] -> 开始翻译【投教专题】六问六答“基”不可失，天堂硅谷邀您答题.docx
+[2020-02-13 15:00:13] -> 【投教专题】六问六答“基”不可失，天堂硅谷邀您答题.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【投教专题】六问六答“基”不可失，天堂硅谷邀您答题.docx
+[2020-02-13 15:00:13] -> 开始翻译【投教专题】敲警钟！一条微信可以成为内幕交易证据，语音也不例外！罚款惩戒可能是过去的十倍！.docx
+[2020-02-13 15:00:34] -> 【投教专题】敲警钟！一条微信可以成为内幕交易证据，语音也不例外！罚款惩戒可能是过去的十倍！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【投教专题】敲警钟！一条微信可以成为内幕交易证据，语音也不例外！罚款惩戒可能是过去的十倍！.docx
+[2020-02-13 15:00:34] -> 开始翻译【温馨告示】天堂硅谷春节放假安排.docx
+[2020-02-13 15:00:35] -> 【温馨告示】天堂硅谷春节放假安排.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【温馨告示】天堂硅谷春节放假安排.docx
+[2020-02-13 15:00:35] -> 开始翻译勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动.docx
+[2020-02-13 15:01:37] -> 勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动.docx
+[2020-02-13 15:01:37] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-02-13 15:07:28] -> 提取到 2 个文档
+[2020-02-13 15:07:28] -> 开始翻译【公司动态】勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动（二）.docx
+[2020-02-13 15:07:50] -> 调用 google_translate 方法出现异常。
+[2020-02-13 15:08:12] -> 调用 google_translate 方法出现异常。
+[2020-02-13 15:10:21] -> 【公司动态】勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动（二）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【公司动态】勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动（二）.docx
+[2020-02-13 15:10:21] -> 开始翻译【公司动态】海南省委书记刘赐贵到天堂硅谷旗下欣龙控股调研防疫物资生产供应情况.docx
+[2020-02-13 15:10:33] -> 【公司动态】海南省委书记刘赐贵到天堂硅谷旗下欣龙控股调研防疫物资生产供应情况.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【公司动态】海南省委书记刘赐贵到天堂硅谷旗下欣龙控股调研防疫物资生产供应情况.docx
+[2020-02-13 15:10:33] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-02-18 13:41:06] -> 提取到 31 个文档
+[2020-02-18 13:41:06] -> 开始翻译【动态新闻】同心聚力、赋能未来——天堂硅谷2019年度工作总结大会暨2020新春联欢会圆满举行.docx
+[2020-02-18 13:41:27] -> 【动态新闻】同心聚力、赋能未来——天堂硅谷2019年度工作总结大会暨2020新春联欢会圆满举行.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】同心聚力、赋能未来——天堂硅谷2019年度工作总结大会暨2020新春联欢会圆满举行.docx
+[2020-02-18 13:41:27] -> 开始翻译【动态新闻】天堂硅谷投资的奥普家居今日成功登陆上交所.docx
+[2020-02-18 13:41:31] -> 【动态新闻】天堂硅谷投资的奥普家居今日成功登陆上交所.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷投资的奥普家居今日成功登陆上交所.docx
+[2020-02-18 13:41:31] -> 开始翻译【动态新闻】天堂硅谷旗下欣龙控股开足马力保生产，全力支援抗击新型冠状病毒肺炎疫情.docx
+[2020-02-18 13:41:40] -> 【动态新闻】天堂硅谷旗下欣龙控股开足马力保生产，全力支援抗击新型冠状病毒肺炎疫情.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷旗下欣龙控股开足马力保生产，全力支援抗击新型冠状病毒肺炎疫情.docx
+[2020-02-18 13:41:40] -> 开始翻译【动态新闻】天堂硅谷荣膺融资中国2019年度中国最佳私募股权投资机构TOP50.docx
+[2020-02-18 13:41:44] -> 【动态新闻】天堂硅谷荣膺融资中国2019年度中国最佳私募股权投资机构TOP50.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷荣膺融资中国2019年度中国最佳私募股权投资机构TOP50.docx
+[2020-02-18 13:41:44] -> 开始翻译【动态新闻】天堂硅谷董事长何向东荣膺第六届“品质杭商”20强.docx
+[2020-02-18 13:41:49] -> 【动态新闻】天堂硅谷董事长何向东荣膺第六届“品质杭商”20强.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷董事长何向东荣膺第六届“品质杭商”20强.docx
+[2020-02-18 13:41:49] -> 开始翻译【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理.docx
+[2020-02-18 13:42:25] -> 【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理.docx
+[2020-02-18 13:42:25] -> 开始翻译【合作伙伴】云创大数据荣膺华为江苏“最佳产业合作奖”.docx
+[2020-02-18 13:42:32] -> 【合作伙伴】云创大数据荣膺华为江苏“最佳产业合作奖”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】云创大数据荣膺华为江苏“最佳产业合作奖”.docx
+[2020-02-18 13:42:32] -> 开始翻译【合作伙伴】创业慧康搭建应急救援系统，助力同济大学附属东方医院的国家紧急医学救援队出征武汉！.docx
+[2020-02-18 13:42:43] -> 【合作伙伴】创业慧康搭建应急救援系统，助力同济大学附属东方医院的国家紧急医学救援队出征武汉！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】创业慧康搭建应急救援系统，助力同济大学附属东方医院的国家紧急医学救援队出征武汉！.docx
+[2020-02-18 13:42:43] -> 开始翻译【合作伙伴】如何跑赢新冠病毒？中奥科技的选择是“大数据”.docx
+[2020-02-18 13:43:00] -> 【合作伙伴】如何跑赢新冠病毒？中奥科技的选择是“大数据”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】如何跑赢新冠病毒？中奥科技的选择是“大数据”.docx
+[2020-02-18 13:43:00] -> 开始翻译【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车.docx
+[2020-02-18 13:43:29] -> 【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车.docx
+[2020-02-18 13:43:29] -> 开始翻译【合作伙伴】小i机器人入选首批上海市技术创新中心企业.docx
+[2020-02-18 13:43:36] -> 【合作伙伴】小i机器人入选首批上海市技术创新中心企业.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】小i机器人入选首批上海市技术创新中心企业.docx
+[2020-02-18 13:43:36] -> 开始翻译【合作伙伴】微盟首批加入腾讯“SaaS技术联盟”，共建技术中台.docx
+[2020-02-18 13:43:47] -> 【合作伙伴】微盟首批加入腾讯“SaaS技术联盟”，共建技术中台.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】微盟首批加入腾讯“SaaS技术联盟”，共建技术中台.docx
+[2020-02-18 13:43:47] -> 开始翻译【合作伙伴】索贝疫情期间免费视频剪辑产品及服务申请相关政策问题解答.docx
+[2020-02-18 13:44:15] -> 【合作伙伴】索贝疫情期间免费视频剪辑产品及服务申请相关政策问题解答.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】索贝疫情期间免费视频剪辑产品及服务申请相关政策问题解答.docx
+[2020-02-18 13:44:15] -> 开始翻译【合作伙伴】远传技术携手腾讯云推出智能防控平台 为疫情防控排查筑起“安全防线”.docx
+[2020-02-18 13:44:26] -> 【合作伙伴】远传技术携手腾讯云推出智能防控平台 为疫情防控排查筑起“安全防线”.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术携手腾讯云推出智能防控平台 为疫情防控排查筑起“安全防线”.docx
+[2020-02-18 13:44:26] -> 开始翻译【合作伙伴】防疫攻坚 数战数决，索贝数码免费向政府部门提供疫情防控信息填报工具集.docx
+[2020-02-18 13:44:30] -> 【合作伙伴】防疫攻坚 数战数决，索贝数码免费向政府部门提供疫情防控信息填报工具集.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】防疫攻坚 数战数决，索贝数码免费向政府部门提供疫情防控信息填报工具集.docx
+[2020-02-18 13:44:30] -> 开始翻译【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx
+[2020-02-18 13:44:38] -> 【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通14号私募投资基金分配公告.docx
+[2020-02-18 13:44:38] -> 开始翻译【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx
+[2020-02-18 13:44:45] -> 【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通15号私募投资基金分配公告.docx
+[2020-02-18 13:44:45] -> 开始翻译【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx
+[2020-02-18 13:44:54] -> 【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-久通16号私募投资基金分配公告.docx
+[2020-02-18 13:44:54] -> 开始翻译【基金公告】天堂硅谷-贤辅1号资产管理计划清算公告.docx
+[2020-02-18 13:45:02] -> 【基金公告】天堂硅谷-贤辅1号资产管理计划清算公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-贤辅1号资产管理计划清算公告.docx
+[2020-02-18 13:45:02] -> 开始翻译【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-02-18 13:45:08] -> 【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-02-18 13:45:08] -> 开始翻译【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-02-18 13:45:14] -> 【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-02-18 13:45:14] -> 开始翻译【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-02-18 13:45:21] -> 【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-02-18 13:45:21] -> 开始翻译【基金公告】天堂硅谷地产并购6号私募投资基金关于召开2020年第一次基金份额持有人大会的通知.docx
+[2020-02-18 13:45:40] -> 【基金公告】天堂硅谷地产并购6号私募投资基金关于召开2020年第一次基金份额持有人大会的通知.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷地产并购6号私募投资基金关于召开2020年第一次基金份额持有人大会的通知.docx
+[2020-02-18 13:45:40] -> 开始翻译【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告 .docx
+[2020-02-18 13:45:49] -> 【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告 .docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】宁波天堂硅谷合众股权投资合伙企业（有限合伙）分配公告 .docx
+[2020-02-18 13:45:49] -> 开始翻译【基金公告】开化硅谷天堂鲲诚股权投资基金合伙企业（有限合伙）成立公告.docx
+[2020-02-18 13:45:54] -> 【基金公告】开化硅谷天堂鲲诚股权投资基金合伙企业（有限合伙）成立公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】开化硅谷天堂鲲诚股权投资基金合伙企业（有限合伙）成立公告.docx
+[2020-02-18 13:45:54] -> 开始翻译【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）清算公告.docx
+[2020-02-18 13:46:00] -> 【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）清算公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷银嘉创业投资合伙企业（有限合伙）清算公告.docx
+[2020-02-18 13:46:00] -> 开始翻译【媒体聚焦】西子天堂有一座“硅谷”——《浙里精彩》丛书关于我司的报道.docx
+[2020-02-18 13:46:35] -> 【媒体聚焦】西子天堂有一座“硅谷”——《浙里精彩》丛书关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】西子天堂有一座“硅谷”——《浙里精彩》丛书关于我司的报道.docx
+[2020-02-18 13:46:35] -> 开始翻译【投教专题】六问六答“基”不可失，天堂硅谷邀您答题.docx
+[2020-02-18 13:46:39] -> 【投教专题】六问六答“基”不可失，天堂硅谷邀您答题.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【投教专题】六问六答“基”不可失，天堂硅谷邀您答题.docx
+[2020-02-18 13:46:39] -> 开始翻译【投教专题】敲警钟！一条微信可以成为内幕交易证据，语音也不例外！罚款惩戒可能是过去的十倍！.docx
+[2020-02-18 13:46:58] -> 【投教专题】敲警钟！一条微信可以成为内幕交易证据，语音也不例外！罚款惩戒可能是过去的十倍！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【投教专题】敲警钟！一条微信可以成为内幕交易证据，语音也不例外！罚款惩戒可能是过去的十倍！.docx
+[2020-02-18 13:46:58] -> 开始翻译【温馨告示】天堂硅谷春节放假安排.docx
+[2020-02-18 13:46:59] -> 【温馨告示】天堂硅谷春节放假安排.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【温馨告示】天堂硅谷春节放假安排.docx
+[2020-02-18 13:46:59] -> 开始翻译勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动.docx
+[2020-02-18 13:47:58] -> 勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动.docx
+[2020-02-18 13:47:58] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-02-18 13:55:08] -> 提取到 5 个文档
+[2020-02-18 13:55:08] -> 开始翻译【公司动态】勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动（三）2-14.docx
+[2020-02-18 13:55:42] -> 【公司动态】勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动（三）2-14.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【公司动态】勠力同心、共克时艰，天堂硅谷驰援疫情重点区域在行动（三）2-14.docx
+[2020-02-18 13:55:42] -> 开始翻译【公司动态】天堂硅谷投资的云创大数据参与完成新冠肺炎疫情预报并向钟南山院士汇报2-14.docx
+[2020-02-18 13:55:53] -> 【公司动态】天堂硅谷投资的云创大数据参与完成新冠肺炎疫情预报并向钟南山院士汇报2-14.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【公司动态】天堂硅谷投资的云创大数据参与完成新冠肺炎疫情预报并向钟南山院士汇报2-14.docx
+[2020-02-18 13:55:53] -> 开始翻译【公司动态】天堂硅谷武汉团队牵头组建志愿者突击队,为支援武汉医疗物资保驾护航2-15.docx
+[2020-02-18 13:55:58] -> 【公司动态】天堂硅谷武汉团队牵头组建志愿者突击队,为支援武汉医疗物资保驾护航2-15.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【公司动态】天堂硅谷武汉团队牵头组建志愿者突击队,为支援武汉医疗物资保驾护航2-15.docx
+[2020-02-18 13:55:58] -> 开始翻译【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理2-12.docx
+[2020-02-18 13:56:19] -> 【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理2-12.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】中奥科技“公安大脑” 在疫情中精彩实践城市数据治理2-12.docx
+[2020-02-18 13:56:19] -> 开始翻译【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车2-12.docx
+[2020-02-18 13:56:35] -> 【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车2-12.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】将安全和健康进行到底，曹操出行将联合LEVC率先推出全方位健康网约车2-12.docx
+[2020-02-18 13:56:35] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-02-24 09:01:20] -> 提取到 4 个文档
+[2020-02-24 09:01:20] -> 开始翻译【原创研究】新冠肺炎疫情对地产及地产产业链影响分析.doc
+[2020-02-24 09:04:43] -> 提取到 4 个文档
+[2020-02-24 09:04:43] -> 开始翻译【原创研究】新冠肺炎疫情对地产及地产产业链影响分析.docx
+[2020-02-24 09:05:53] -> 调用 google_translate 方法出现异常。
+[2020-02-24 09:14:25] -> 【原创研究】新冠肺炎疫情对地产及地产产业链影响分析.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】新冠肺炎疫情对地产及地产产业链影响分析.docx
+[2020-02-24 09:14:25] -> 开始翻译【原创研究】新冠肺炎疫情对地产及地产产业链影响分析（下篇）.docx
+[2020-02-24 09:22:31] -> 【原创研究】新冠肺炎疫情对地产及地产产业链影响分析（下篇）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【原创研究】新冠肺炎疫情对地产及地产产业链影响分析（下篇）.docx
+[2020-02-24 09:22:31] -> 开始翻译【合作伙伴】天堂硅谷投资的百诚医药再添新成果！.docx
+[2020-02-24 09:23:04] -> 【合作伙伴】天堂硅谷投资的百诚医药再添新成果！.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】天堂硅谷投资的百诚医药再添新成果！.docx
+[2020-02-24 09:23:04] -> 开始翻译【基金公告】开化硅谷天堂鲲裕股权投资基金合伙企业（有限合伙）基金分配公告.docx
+[2020-02-24 09:23:22] -> 【基金公告】开化硅谷天堂鲲裕股权投资基金合伙企业（有限合伙）基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】开化硅谷天堂鲲裕股权投资基金合伙企业（有限合伙）基金分配公告.docx
+[2020-02-24 09:23:22] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-02-29 08:28:40] -> 提取到 16 个文档
+[2020-02-29 08:28:40] -> 开始翻译【动态新闻】天堂硅谷投资企业优行科技成功发行首单民营企业疫情防控资产支持票据（清洁版）.docx
+[2020-02-29 08:28:57] -> 【动态新闻】天堂硅谷投资企业优行科技成功发行首单民营企业疫情防控资产支持票据（清洁版）.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【动态新闻】天堂硅谷投资企业优行科技成功发行首单民营企业疫情防控资产支持票据（清洁版）.docx
+[2020-02-29 08:28:57] -> 开始翻译【合作伙伴】光大绿色环保公布2019年全年业绩.docx
+[2020-02-29 08:29:42] -> 【合作伙伴】光大绿色环保公布2019年全年业绩.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保公布2019年全年业绩.docx
+[2020-02-29 08:29:42] -> 开始翻译【合作伙伴】创业慧康携手平安智慧城市智慧医疗研发“新冠肺炎智能阅片系统”的多学科联合会诊平台，助力抗击新冠疫情.docx
+[2020-02-29 08:30:02] -> 【合作伙伴】创业慧康携手平安智慧城市智慧医疗研发“新冠肺炎智能阅片系统”的多学科联合会诊平台，助力抗击新冠疫情.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】创业慧康携手平安智慧城市智慧医疗研发“新冠肺炎智能阅片系统”的多学科联合会诊平台，助力抗击新冠疫情.docx
+[2020-02-29 08:30:02] -> 开始翻译【合作伙伴】当虹科技2019年盈利8585万元增长34% 公共安全项目落地加速.docx
+[2020-02-29 08:30:13] -> 【合作伙伴】当虹科技2019年盈利8585万元增长34% 公共安全项目落地加速.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】当虹科技2019年盈利8585万元增长34% 公共安全项目落地加速.docx
+[2020-02-29 08:30:13] -> 开始翻译【合作伙伴】虹软科技2019年净利同比增31%，营收增长23%.docx
+[2020-02-29 08:30:21] -> 【合作伙伴】虹软科技2019年净利同比增31%，营收增长23%.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】虹软科技2019年净利同比增31%，营收增长23%.docx
+[2020-02-29 08:30:21] -> 开始翻译【合作伙伴】远传技术入选2019年省级企业研究院.docx
+[2020-02-29 08:30:33] -> 【合作伙伴】远传技术入选2019年省级企业研究院.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【合作伙伴】远传技术入选2019年省级企业研究院.docx
+[2020-02-29 08:30:33] -> 开始翻译【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx
+[2020-02-29 08:30:46] -> 【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx
+[2020-02-29 08:30:46] -> 开始翻译【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx
+[2020-02-29 08:30:57] -> 【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx
+[2020-02-29 08:30:57] -> 开始翻译【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx
+[2020-02-29 08:31:11] -> 【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx
+[2020-02-29 08:31:11] -> 开始翻译【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx
+[2020-02-29 08:31:20] -> 【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx
+[2020-02-29 08:31:20] -> 开始翻译【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx
+[2020-02-29 08:31:37] -> 【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx
+[2020-02-29 08:31:37] -> 开始翻译【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-02-29 08:31:48] -> 【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-02-29 08:31:48] -> 开始翻译【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-02-29 08:31:56] -> 【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-02-29 08:31:56] -> 开始翻译【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-02-29 08:32:06] -> 【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-02-29 08:32:06] -> 开始翻译【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx
+[2020-02-29 08:32:17] -> 【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx
+[2020-02-29 08:32:17] -> 开始翻译【媒体聚焦】疫情催生数字经济新风口，风能吹多久？——《浙江经视》关于我司的报道.docx
+[2020-02-29 08:33:11] -> 【媒体聚焦】疫情催生数字经济新风口，风能吹多久？——《浙江经视》关于我司的报道.docx翻译完成，新文档：D:\新建文件夹\TranslateTool-master\TranslateTool-master\src\TranslateTool\TranslateTool\Doc_Out\【媒体聚焦】疫情催生数字经济新风口，风能吹多久？——《浙江经视》关于我司的报道.docx
+[2020-02-29 08:33:11] -> 翻译完成，请查看Doc_Out文件夹下面的文档
+[2020-03-02 17:33:50] -> 提取到 16 个文档
+[2020-03-02 17:33:50] -> 开始翻译【动态新闻】天堂硅谷投资企业优行科技成功发行首单民营企业疫情防控资产支持票据（清洁版）.docx
+[2020-03-02 17:33:55] -> 【动态新闻】天堂硅谷投资企业优行科技成功发行首单民营企业疫情防控资产支持票据（清洁版）.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【动态新闻】天堂硅谷投资企业优行科技成功发行首单民营企业疫情防控资产支持票据（清洁版）.docx
+[2020-03-02 17:33:55] -> 开始翻译【合作伙伴】光大绿色环保公布2019年全年业绩.docx
+[2020-03-02 17:34:15] -> 【合作伙伴】光大绿色环保公布2019年全年业绩.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【合作伙伴】光大绿色环保公布2019年全年业绩.docx
+[2020-03-02 17:34:15] -> 开始翻译【合作伙伴】创业慧康携手平安智慧城市智慧医疗研发“新冠肺炎智能阅片系统”的多学科联合会诊平台，助力抗击新冠疫情.docx
+[2020-03-02 17:34:24] -> 【合作伙伴】创业慧康携手平安智慧城市智慧医疗研发“新冠肺炎智能阅片系统”的多学科联合会诊平台，助力抗击新冠疫情.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【合作伙伴】创业慧康携手平安智慧城市智慧医疗研发“新冠肺炎智能阅片系统”的多学科联合会诊平台，助力抗击新冠疫情.docx
+[2020-03-02 17:34:24] -> 开始翻译【合作伙伴】当虹科技2019年盈利8585万元增长34% 公共安全项目落地加速.docx
+[2020-03-02 17:34:30] -> 【合作伙伴】当虹科技2019年盈利8585万元增长34% 公共安全项目落地加速.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【合作伙伴】当虹科技2019年盈利8585万元增长34% 公共安全项目落地加速.docx
+[2020-03-02 17:34:30] -> 开始翻译【合作伙伴】虹软科技2019年净利同比增31%，营收增长23%.docx
+[2020-03-02 17:34:33] -> 【合作伙伴】虹软科技2019年净利同比增31%，营收增长23%.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【合作伙伴】虹软科技2019年净利同比增31%，营收增长23%.docx
+[2020-03-02 17:34:33] -> 开始翻译【合作伙伴】远传技术入选2019年省级企业研究院.docx
+[2020-03-02 17:34:40] -> 【合作伙伴】远传技术入选2019年省级企业研究院.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【合作伙伴】远传技术入选2019年省级企业研究院.docx
+[2020-03-02 17:34:40] -> 开始翻译【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx
+[2020-03-02 17:34:46] -> 【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】台州产业转型升级股权投资基金合伙企业（有限合伙）分配公告.docx
+[2020-03-02 17:34:46] -> 开始翻译【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx
+[2020-03-02 17:34:51] -> 【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞7号资产管理计划基金分配公告.docx
+[2020-03-02 17:34:51] -> 开始翻译【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx
+[2020-03-02 17:34:54] -> 【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞8号资产管理计划基金分配公告.docx
+[2020-03-02 17:34:54] -> 开始翻译【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx
+[2020-03-02 17:34:58] -> 【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷-祥瑞9号资产管理计划基金分配公告.docx
+[2020-03-02 17:34:58] -> 开始翻译【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx
+[2020-03-02 17:35:01] -> 【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE1号资产管理计划基金分配公告.docx
+[2020-03-02 17:35:01] -> 开始翻译【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-03-02 17:35:06] -> 【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE2号私募投资基金分配公告.docx
+[2020-03-02 17:35:06] -> 开始翻译【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-03-02 17:35:09] -> 【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE3号私募投资基金分配公告.docx
+[2020-03-02 17:35:09] -> 开始翻译【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-03-02 17:35:13] -> 【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】天堂硅谷PIPE5号私募投资基金分配公告.docx
+[2020-03-02 17:35:13] -> 开始翻译【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx
+[2020-03-02 17:35:18] -> 【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【基金公告】浙江天堂硅谷七弦股权投资合伙企业(有限合伙)基金分配公告.docx
+[2020-03-02 17:35:18] -> 开始翻译【媒体聚焦】疫情催生数字经济新风口，风能吹多久？——《浙江经视》关于我司的报道.docx
+[2020-03-02 17:35:41] -> 【媒体聚焦】疫情催生数字经济新风口，风能吹多久？——《浙江经视》关于我司的报道.docx翻译完成，新文档：D:\TranslateTool\Doc_Out\【媒体聚焦】疫情催生数字经济新风口，风能吹多久？——《浙江经视》关于我司的报道.docx
+[2020-03-02 17:35:41] -> 翻译完成，请查看Doc_Out文件夹下面的文档
